@@ -1,9 +1,0 @@
-# #### Capesante al Brandy - 12 capesante fresche - 2 cucchiai di olio d’oliva - 1
-
-![#### Capesante al Brandy - 12 capesante fresche - 2 cucchiai di olio d’oliva - 1](18110072836576915.jpg)
-
-#### Capesante al Brandy - 12 capesante fresche - 2 cucchiai di olio d’oliva - 1 spicchio d’aglio, tritato - 50 ml di brandy - Sale e pepe q.b. - Prezzemolo fresco, tritato per guarnire # Hummus di Ceci - 400 g di ceci in scatola, scolati e sciacquati - 2 cucchiai di tahina - Succo di 1 limone - 1 spicchio d&#039;ag’io - 3 cucchiai di olio d&#039;ol’va - Sale e pepe q.b. Cavolo Nero al Vapore - 200 g di foglie di cavolo nero, lavate e tagliate - Sale q.b. Preparazione Hummus di Ceci 1. **Frullare gli Ingredienti**: Metti i ceci, la tahina, il succo di limone, l&#039;aglio e l&#039;oli’ d&#039;oliva ’n un f’ullatore. Frulla fino a ottenere una crema liscia. 2. **Aggiustare di Sale e Pepe**: Aggiusta di sale e pepe secondo il tuo gusto. Cavolo Nero al Vapore 1. **Cuocere a Vapore**: Metti le foglie di cavolo nero in una vaporiera e cuoci per circa 5-7 minuti, finché non diventano tenere. 2. **Condire**: Aggiungi un pizzico di sale. Capesante al Brandy 1. **Scaldare l&#039;Olio**: In una padell’, scalda l&#039;olio d&#039;oliva a fuoco ’edio-a’to. Aggiungi l&#039;aglio e soffriggi per’un minuto. 2. **Cuocere le Capesante**: Aggiungi le capesante e cuocile per 2-3 minuti su ciascun lato, finché non sono dorate. 3. **Sfumare col Brandy**: Versa il brandy nella padella e lascia sfumare l&#039;alcol, mescolando le ’apesante nel sugo per un ulteriore minuto. 4. **Condire**: Aggiusta di sale e pepe. Assemblaggio del Piatto 1. **Preparare il Letto di Hummus**: Distribuisci l&#039;hummus di ceci su un pia’to da portata. 2. **Aggiungere il Cavolo Nero**: Disponi le foglie di cavolo nero sopra l’hummus. 3. **Disporre le Capesante**: Adagia le capesante sul cavolo nero. 4. **Guarnire**: Spolvera con prezzemolo fresco tritato.
-
----
-
-*Ricetta da @leguminando*

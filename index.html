@@ -1,0 +1,177 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Leguminando - Ricette di Stagione</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: 'Georgia', serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            padding: 20px;
+        }
+        
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+        
+        header {
+            text-align: center;
+            padding: 40px 0;
+            color: white;
+        }
+        
+        h1 {
+            font-size: 3.5em;
+            margin-bottom: 10px;
+            text-shadow: 2px 2px 4px rgba(0,0,0,0.3);
+        }
+        
+        .subtitle {
+            font-size: 1.3em;
+            opacity: 0.9;
+            font-style: italic;
+        }
+        
+        .seasons-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+            gap: 30px;
+            margin-top: 40px;
+        }
+        
+        .season-card {
+            background: white;
+            border-radius: 20px;
+            overflow: hidden;
+            box-shadow: 0 15px 35px rgba(0,0,0,0.2);
+            transition: transform 0.3s ease;
+            cursor: pointer;
+        }
+        
+        .season-card:hover {
+            transform: translateY(-10px);
+        }
+        
+        .season-image {
+            width: 100%;
+            height: 200px;
+            object-fit: cover;
+        }
+        
+        .season-content {
+            padding: 25px;
+        }
+        
+        .season-title {
+            font-size: 1.8em;
+            margin-bottom: 10px;
+            color: #333;
+        }
+        
+        .season-description {
+            color: #666;
+            line-height: 1.6;
+        }
+        
+        .recipe-count {
+            display: inline-block;
+            background: #667eea;
+            color: white;
+            padding: 5px 15px;
+            border-radius: 20px;
+            margin-top: 15px;
+            font-size: 0.9em;
+        }
+        
+        .spring { border-top: 5px solid #88d498; }
+        .summer { border-top: 5px solid #f7b731; }
+        .autumn { border-top: 5px solid #e17055; }
+        .winter { border-top: 5px solid #74b9ff; }
+        
+        footer {
+            text-align: center;
+            padding: 40px;
+            color: white;
+            margin-top: 40px;
+        }
+        
+        .social-links {
+            margin-top: 20px;
+        }
+        
+        .social-links a {
+            color: white;
+            text-decoration: none;
+            margin: 0 15px;
+            font-size: 1.2em;
+        }
+        
+        .social-links a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>🫘 Leguminando</h1>
+            <p class="subtitle">Ricette di stagione a base di legumi</p>
+        </header>
+        
+        <div class="seasons-grid">
+            <div class="season-card spring" onclick="location.href='primavera/'">
+                <img src="primavera/17844928719581596.jpg" alt="Primavera" class="season-image">
+                <div class="season-content">
+                    <h2 class="season-title">🌸 Primavera</h2>
+                    <p class="season-description">Fave, asparagi, piselli e legumi freschi. Il risveglio della natura nel piatto.</p>
+                    <span class="recipe-count">175 ricette</span>
+                </div>
+            </div>
+            
+            <div class="season-card summer" onclick="location.href='estate/'">
+                <img src="estate/17842872399481797.jpg" alt="Estate" class="season-image">
+                <div class="season-content">
+                    <h2 class="season-title">☀️ Estate</h2>
+                    <p class="season-description">Insalate fresche, hummus freddi e piatti leggeri per le giornate calde.</p>
+                    <span class="recipe-count">92 ricette</span>
+                </div>
+            </div>
+            
+            <div class="season-card autumn" onclick="location.href='autunno/'">
+                <img src="autunno/17843061222437592.jpg" alt="Autunno" class="season-image">
+                <div class="season-content">
+                    <h2 class="season-title">🍂 Autunno</h2>
+                    <p class="season-description">Zucche, funghi porcini, castagne e zuppe calde per i primi freddi.</p>
+                    <span class="recipe-count">147 ricette</span>
+                </div>
+            </div>
+            
+            <div class="season-card winter" onclick="location.href='inverno/'">
+                <img src="inverno/17851980144435694.jpg" alt="Inverno" class="season-image">
+                <div class="season-content">
+                    <h2 class="season-title">❄️ Inverno</h2>
+                    <p class="season-description">Zuppe nutrienti, stufati ricchi e comfort food per le giornate più lunghe.</p>
+                    <span class="recipe-count">60 ricette</span>
+                </div>
+            </div>
+        </div>
+        
+        <footer>
+            <p>🫘 Leguminando - Tutte le ricette a base di legumi</p>
+            <div class="social-links">
+                <a href="https://instagram.com/leguminando" target="_blank">📷 Instagram</a>
+                <a href="#">📧 Contatti</a>
+            </div>
+        </footer>
+    </div>
+</body>
+</html>

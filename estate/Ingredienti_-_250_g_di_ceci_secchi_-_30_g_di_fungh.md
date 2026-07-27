@@ -1,9 +1,0 @@
-# #### Ingredienti - 250 g di ceci secchi - 30 g di funghi porcini secchi - 400 g 
-
-![#### Ingredienti - 250 g di ceci secchi - 30 g di funghi porcini secchi - 400 g ](18141122572433500.jpg)
-
-#### Ingredienti - 250 g di ceci secchi - 30 g di funghi porcini secchi - 400 g di passata di pomodoro - 300 g di bietole - 1 cipolla - 2 spicchi d’aglio - 1 carota - 1 costa di sedano - Olio extravergine d’oliva - Sale e pepe q.b. - 1 rametto di rosmarino - 1 foglia di alloro - Pane tostato, per servire # Preparazione 1. **Preparazione dei Ceci**: - Metti i ceci in ammollo in abbondante acqua fredda per almeno 8 ore o durante la notte. - Dopo l&#039;’mmollo, scolali e sciacquali bene. 2. **Preparazione dei Funghi**: - Metti i funghi porcini secchi in ammollo in acqua tiepida per circa 20 minuti. - Scolali e conservali, filtrando l&#039;’cqua di ammollo e mettendola da parte. 3. **Preparazione delle Verdure**: - Lava e taglia le bietole a pezzi. - Trita finemente la cipolla, l&#039;’glio, la carota e il sedano. 4. **Cottura**: - In una pentola capiente, versa un po&#039;’d&#039;’lio extravergine d&#039;’liva e aggiungi il trito di cipolla, aglio, carota e sedano. Fai soffriggere a fuoco medio finché le verdure non diventano morbide. - Aggiungi i ceci scolati, i funghi porcini e la passata di pomodoro. Mescola bene. - Versa l&#039;’cqua di ammollo dei funghi nella pentola e aggiungi abbastanza acqua per coprire il tutto. - Aggiungi il rosmarino e la foglia di alloro. Porta a ebollizione, quindi riduci la fiamma e lascia cuocere a fuoco lento per circa 1-1,5 ore, o fino a quando i ceci saranno teneri. 5. **Aggiunta delle Bietole**: - Aggiungi le bietole e cuoci per altri 15-20 minuti. - Aggiusta di sale e pepe a piacere. 6. **Servizio**: - Servi i ceci in zimino caldi, accompagnati da fette di pane tostato. Puoi strofinare il pane con uno spicchio d’aglio per un sapore extra.
-
----
-
-*Ricetta da @leguminando*

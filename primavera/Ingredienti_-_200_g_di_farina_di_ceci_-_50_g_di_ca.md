@@ -1,9 +1,0 @@
-# ### Ingredienti: - 200 g di farina di ceci - 50 g di cacao amaro in polvere - 15
-
-![### Ingredienti: - 200 g di farina di ceci - 50 g di cacao amaro in polvere - 15](18075342181534635.jpg)
-
-### Ingredienti: - 200 g di farina di ceci - 50 g di cacao amaro in polvere - 150 g di zucchero di canna - 1 bustina di lievito per dolci - 1 pizzico di sale - 100 ml di olio di semi (o olio di oliva leggero) - 200 ml di acqua (o latte vegetale) - 1 cucchiaino di estratto di vaniglia (opzionale) - Noci o nocciole tritate (opzionale, per guarnire) ### Istruzioni: 1. **Preparazione dell’impasto**: - In una ciotola grande, setacciare la farina di ceci, il cacao in polvere, lo zucchero, il lievito e il sale. Mescolare bene gli ingredienti secchi. 2. **Ingredienti liquidi**: - In un’altra ciotola, unire l’olio, l’acqua (o latte vegetale) e l’estratto di vaniglia. Mescolare fino a ottenere un composto omogeneo. 3. **Unire i composti**: - Versare gli ingredienti liquidi nella ciotola con gli ingredienti secchi. Mescolare bene fino a ottenere un impasto liscio e senza grumi. 4. **Preparazione della teglia**: - Preriscaldare il forno a 180°C. Ungere una teglia da forno con un po’ di olio e infarinarla con farina di ceci. 5. **Cottura**: - Versare l’impasto nella teglia e livellare la superficie. Infornare per circa 30-35 minuti, o fino a quando un stecchino inserito al centro esce pulito. 6. **Raffreddamento e decorazione**: - Una volta cotta, lasciare raffreddare la torta nella teglia per 10 minuti, poi trasferirla su una griglia per raffreddarla completamente. - Se desiderato, guarnire con noci o nocciole tritate prima di servire. ### Servizio: Tagliare a fette e servire. Questa torta è ottima sia tiepida che fredda e può essere accompagnata con una spolverata di zucchero a velo o una salsa di frutta.
-
----
-
-*Ricetta da @leguminando*

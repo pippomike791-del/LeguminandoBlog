@@ -1,9 +1,0 @@
-# ### Ciambella di Lenticchie Rosse con Yogurt e Limone #### Ingredienti: - 200 g 
-
-![### Ciambella di Lenticchie Rosse con Yogurt e Limone #### Ingredienti: - 200 g ](17948526089989825.jpg)
-
-### Ciambella di Lenticchie Rosse con Yogurt e Limone #### Ingredienti: - 200 g di farina di lenticchie rosse - 3 uova - 80 ml di olio d’oliva - 150 g di yogurt bianco - 50 g di pinoli - Scorza grattugiata di 1 limone - 1 bustina di lievito per dolci - Un pizzico di sale - Zucchero a piacere (circa 100 g, facoltativo) #### Procedimento: 1. **Preparazione degli ingredienti**: Inizia preriscaldando il forno a 180°C. Fodera uno stampo per ciambella con carta da forno o ungilo con un po’ di olio. 2. **Mescolare gli ingredienti umidi**: In una ciotola grande, sbatti le uova con lo yogurt bianco e l’olio d’oliva fino ad ottenere un composto omogeneo. Se desideri un dolce più dolce, aggiungi lo zucchero e mescola bene. 3. **Aggiungere gli ingredienti secchi**: In un’altra ciotola, setaccia la farina di lenticchie rosse con il lievito e un pizzico di sale. Aggiungi la scorza di limone e mescola. 4. **Unire i composti**: Aggiungi gradualmente il composto di ingredienti secchi a quello degli ingredienti umidi, mescolando delicatamente fino a quando non ci sono più grumi. Infine, incorpora i pinoli. 5. **Versare nello stampo**: Versa l’impasto nello stampo per ciambella preparato e livella la superficie con una spatola. 6. **Cottura**: Inforna per circa 30-35 minuti, o fino a quando la ciambella non risulta dorata in superficie e uno stecchino inserito al centro esce pulito. 7. **Raffreddamento**: Una volta cotta, sforna la ciambella e lasciala raffreddare nello stampo per circa 10 minuti, poi trasferiscila su una griglia per raffreddarla completamente. 8. **Servire**: Puoi gustare la ciambella così com’è o spolverizzarla con un po’ di zucchero a velo. È perfetta per una colazione fresca e leggera!
-
----
-
-*Ricetta da @leguminando*

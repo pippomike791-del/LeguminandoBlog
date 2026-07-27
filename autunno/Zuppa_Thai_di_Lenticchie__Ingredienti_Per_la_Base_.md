@@ -1,9 +1,0 @@
-# ### Zuppa Thai di Lenticchie ## Ingredienti **Per la Base:** - **250g** di lenti
-
-![### Zuppa Thai di Lenticchie ## Ingredienti **Per la Base:** - **250g** di lenti](18116060575713896.jpg)
-
-### Zuppa Thai di Lenticchie ## Ingredienti **Per la Base:** - **250g** di lenticchie rosse decorticate - **400ml** di latte di cocco intero - **500ml** di brodo vegetale - **1** cipolla rossa o **4** scalogni - **2** spicchi d’aglio - **3 cm** di zenzero fresco grattugiato - **1 cucchiaio** di olio di cocco o di semi **Per il Sapore Thai:** - **2-3 cucchiai** di pasta di curry rosso thai - **1 cucchiaino** di pasta di curry verde (opzionale) - **2 foglie** di lime kaffir o scorza di lime bio - **1 stelo** di citronella leggermente pestato (facoltativo) - **1 cucchiaio** di salsa di pesce **Per le Verdure:** - **2** carote medie a dadini - **1** zucchina piccola a dadini - **1 tazza** di spinaci baby - **1** peperoncino rosso fresco a rondelle - Coriandolo fresco q.b. **Per Finire:** - Succo di **1 lime** - **1 cucchiaio** di zucchero di canna Preparazione 1. **Prepara le Lenticchie:** - Sciacqua le lenticchie sotto acqua fredda fino a quando l&#039;acqua diventa chiara. 2. **Soffriggi gli Aromi:** - In una pentola grande, scalda l’olio di cocco. - Aggiungi cipolla tritata, aglio schiacciato e zenzero grattugiato. Cuoci fino a quando la cipolla diventa traslucida. 3. **Cuoci la Base:** - Aggiungi le lenticchie, il latte di cocco e il brodo vegetale. - Porta a ebollizione, poi riduci il fuoco e lascia sobbollire. 4. **Incorpora gli Aromi Thai:** - Mescola la pasta di curry rosso (e verde se usi). - Aggiungi le foglie di lime e/o lo stelo di citronella. 5. **Aggiungi le Verdure:** - Unisci le carote e le zucchine a dadini. - Poco prima di servire, aggiungi gli spinaci 6. **Finalizza e Servi:** - Aggiungi il succo di lime e lo zucchero di canna per bilanciare i sapori. - Guarnisci con peperoncino fresco e coriandolo.
-
----
-
-*Ricetta da @leguminando*

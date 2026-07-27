@@ -1,9 +1,0 @@
-# ### Dolce alla Ricotta, Fragole e Farina di Carrube #### Ingredienti: - 2 uova b
-
-![### Dolce alla Ricotta, Fragole e Farina di Carrube #### Ingredienti: - 2 uova b](18337343314086785.jpg)
-
-### Dolce alla Ricotta, Fragole e Farina di Carrube #### Ingredienti: - 2 uova bio - 500 g di ricotta (preferibilmente a basso contenuto di grassi) - 2 cucchiai di miele bio - 4 cucchiai di farina di carrube - Circa 100 g di fragole (tagliate a pezzettini) #### Procedimento: 1. **Preparazione del forno**: Preriscalda il forno a 180°C e rivesti uno stampo da circa 15/18 cm di diametro con carta da forno o ungilo leggermente. 2. **Mescolare le uova e la ricotta**: In una ciotola grande, sbatti le uova con una frusta fino a ottenere un composto omogeneo. Aggiungi la ricotta e mescola bene fino a ottenere una crema liscia. 3. **Incorporare il miele**: Aggiungi i due cucchiai di miele alla crema di ricotta e uova e mescola fino a quando il miele è completamente incorporato. 4. **Aggiungere la farina di carrube**: Setaccia la farina di carrube nella ciotola e mescola delicatamente fino a ottenere un impasto omogeneo. La farina di carrube darà un sapore unico e una leggera dolcezza al dolce. 5. **Incorporare le fragole**: Aggiungi i pezzettini di fragole all’impasto e mescola con cura per distribuirle uniformemente. 6. **Versare nello stampo**: Versa l’impasto nello stampo preparato e livellalo con una spatola. 7. **Cottura**: Inforna per circa 30-35 minuti, o fino a quando la superficie è dorata e uno stuzzicadenti inserito al centro esce pulito. 8. **Raffreddare e servire**: Una volta cotto, lascia raffreddare il dolce nello stampo per qualche minuto, poi trasferiscilo su una gratella per raffreddarsi completamente. Puoi servirlo da solo o accompagnato da un po’ di yogurt o panna montata.
-
----
-
-*Ricetta da @leguminando*

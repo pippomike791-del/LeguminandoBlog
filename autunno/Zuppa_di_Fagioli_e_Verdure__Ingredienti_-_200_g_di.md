@@ -1,9 +1,0 @@
-# ### Zuppa di Fagioli e Verdure #### Ingredienti: - 200 g di fagioli cannellini (
-
-![### Zuppa di Fagioli e Verdure #### Ingredienti: - 200 g di fagioli cannellini (](17847054525377298.jpg)
-
-### Zuppa di Fagioli e Verdure #### Ingredienti: - 200 g di fagioli cannellini (già cotti) - 200 g di fagioli borlotti (già cotti) - 100 g di fagioli piccoli (già cotti) - 2 carote, tagliate a dadini - 2 gambi di sedano, tagliati a dadini - 200 g di broccoli, divisi in cimette - 1 cipolla, tritata - 2 spicchi d’aglio, tritati - 1 litro di brodo vegetale - 2 cucchiai di olio d’oliva - Sale e pepe q.b. - Prezzemolo fresco, tritato (per guarnire) - Un pizzico di peperoncino (facoltativo) #### Procedimento: 1. **Soffritto**: In una pentola capiente, scalda l’olio d’oliva a fuoco medio. Aggiungi la cipolla e l’aglio, e soffriggi fino a quando la cipolla diventa trasparente. 2. **Aggiunta delle verdure**: Unisci le carote e il sedano, e cuoci per circa 5 minuti, mescolando di tanto in tanto. Aggiungi anche i broccoli e continua a rosolare per un paio di minuti. 3. **Brodo e fagioli**: Versa il brodo vegetale nella pentola e porta a ebollizione. Aggiungi i fagioli cannellini, borlotti e piccoli. Riduci il fuoco e lascia sobbollire per circa 20-25 minuti. Se desideri, aggiungi un pizzico di peperoncino per un tocco piccante. 4. **Regolazione di sale e pepe**: Assaggia la zuppa e aggiusta di sale e pepe secondo il tuo gusto. 5. **Servire**: Una volta che le verdure sono tenere, togli la zuppa dal fuoco. Servila calda, guarnita con prezzemolo fresco tritato. ### Consigli: - Puoi arricchire la zuppa con crostini di pane tostato o una spolverata di formaggio grattugiato. - Se preferisci una consistenza più cremosa, puoi frullare una parte della zuppa e poi mescolarla con il resto.
-
----
-
-*Ricetta da @leguminando*

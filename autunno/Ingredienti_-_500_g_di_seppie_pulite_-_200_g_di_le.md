@@ -1,9 +1,0 @@
-# ## Ingredienti - 500 g di seppie pulite - 200 g di lenticchie (preferibilmente v
-
-![## Ingredienti - 500 g di seppie pulite - 200 g di lenticchie (preferibilmente v](18040471805179500.jpg)
-
-## Ingredienti - 500 g di seppie pulite - 200 g di lenticchie (preferibilmente verdi o nere) - 2 pomodori maturi - 2 peperoni secchi - 1 cipolla - 2 spicchi d’aglio - 1 litro di brodo vegetale - Olio extravergine d’oliva q.b. - Sale e pepe q.b. - Prezzemolo fresco per guarnire ### Procedimento #### 1. Preparazione delle lenticchie: 1. **Cottura**: In una pentola, cuocere le lenticchie in acqua salata per circa 20-30 minuti, fino a quando sono tenere. Scolarle e mettere da parte. #### 2. Preparazione delle seppie: 1. **Soffritto**: In una padella ampia, scaldare un filo d’olio e aggiungere la cipolla tritata e gli spicchi d’aglio schiacciati. Far soffriggere fino a quando la cipolla diventa trasparente. 2. **Aggiunta delle seppie**: Tagliare le seppie a strisce o a pezzi e aggiungerle alla padella. Cuocere per alcuni minuti fino a quando diventano opache. #### 3. Aggiunta degli altri ingredienti: 1. **Pomodori e peperoni**: Aggiungere i pomodori tagliati a cubetti e i peperoni secchi (precedentemente reidratati in acqua calda e tagliati a pezzetti). Mescolare bene. 2. **Brodo**: Versare il brodo vegetale e portare a ebollizione. Ridurre il fuoco e far cuocere per circa 20-25 minuti, fino a quando le seppie sono tenere. #### 4. Unione delle lenticchie: 1. **Incorporare le lenticchie**: Aggiungere le lenticchie cotte nella padella e mescolare delicatamente. Continuare a cuocere per altri 5 minuti per amalgamare i sapori. Aggiustare di sale e pepe. #### 5. Servire: 1. **Impiattamento**: Servire caldo, guarnendo con prezzemolo fresco tritato e un filo d’olio extravergine d’oliva.
-
----
-
-*Ricetta da @leguminando*

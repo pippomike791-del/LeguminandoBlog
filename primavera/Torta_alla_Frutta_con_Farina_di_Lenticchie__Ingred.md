@@ -1,9 +1,0 @@
-# ### Torta alla Frutta con Farina di Lenticchie #### Ingredienti: - 200 g di fari
-
-![### Torta alla Frutta con Farina di Lenticchie #### Ingredienti: - 200 g di fari](17946566051969400.jpg)
-
-### Torta alla Frutta con Farina di Lenticchie #### Ingredienti: - 200 g di farina di lenticchie - 100 g di zucchero di canna - 3 uova - 100 ml di olio di semi o olio d’oliva leggero - 150 ml di latte (puoi usare anche latte vegetale) - 1 cucchiaino di estratto di vaniglia - 1 bustina di lievito per dolci - Un pizzico di sale - 300 g di frutta fresca (mele, pere, frutti di bosco, o quella che preferisci) - Zucchero a velo per guarnire (facoltativo) #### Procedimento: 1. **Preparazione della frutta**: Lava e taglia la frutta a pezzi. Se usi mele o pere, puoi anche sbucciarle. 2. **Mescolare gli ingredienti secchi**: In una ciotola, setaccia la farina di lenticchie, il lievito e il sale. Mescola bene. 3. **Preparare il composto**: In un’altra ciotola, sbatti le uova con lo zucchero fino a ottenere un composto spumoso. Aggiungi l’olio, il latte e l’estratto di vaniglia, mescolando bene. 4. **Unire gli ingredienti**: Aggiungi gradualmente gli ingredienti secchi a quelli umidi, mescolando fino a ottenere un impasto omogeneo. 5. **Aggiungere la frutta**: Incorpora delicatamente i pezzi di frutta all’impasto. 6. **Versare nello stampo**: Versa l’impasto in una tortiera precedentemente unta e infarinata. 7. **Cottura**: Cuoci in forno preriscaldato a 180°C per circa 30-40 minuti, o fino a quando un stecchino inserito al centro della torta esce pulito. 8. **Raffreddamento e servire**: Lascia raffreddare la torta nella tortiera per 10 minuti, poi trasferiscila su una gratella per raffreddarla completamente. Spolvera con zucchero a velo prima di servire, se desideri.
-
----
-
-*Ricetta da @leguminando*

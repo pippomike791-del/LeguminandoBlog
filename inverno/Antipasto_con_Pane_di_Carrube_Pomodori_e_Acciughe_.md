@@ -1,9 +1,0 @@
-# ### Antipasto con Pane di Carrube, Pomodori e Acciughe #### Ingredienti - Pane f
-
-![### Antipasto con Pane di Carrube, Pomodori e Acciughe #### Ingredienti - Pane f](18009441128785496.jpg)
-
-### Antipasto con Pane di Carrube, Pomodori e Acciughe #### Ingredienti - Pane fatto in casa con farina di carrube - Olio extravergine d’oliva - Pomodori freschi e maturi - Origano - Formaggio a fettine primo sale - Acciughe - Sale e pepe #### Preparazione del Pane di Carrube 1. **Ingredienti**: Per preparare il pane, utilizza farina di carrube, acqua, lievito, sale e un po’ di olio extravergine d’oliva. 2. **Impasto**: In una ciotola, mescola la farina di carrube e il sale. Sciogli il lievito in acqua tiepida e uniscilo alla farina. Aggiungi l’olio e impasta fino a ottenere un composto omogeneo. 3. **Lievitazione**: Lascialo lievitare in un luogo caldo per almeno 2 ore, coperto da un panno, finché non raddoppia di volume. 4. **Formatura**: Dopo la lievitazione, forma una pagnotta e mettila su una teglia foderata di carta da forno. 5. **Cottura Lenta**: Cuoci in forno preriscaldato a 160°C per circa 1 ora, fino a quando la crosta diventa dorata e croccante. Per ottenere una consistenza ancora più croccante, puoi lasciare il pane nel forno spento con il sportello leggermente aperto per altri 15-20 minuti. #### Preparazione dell’Antipasto 1. **Taglio del Pane**: Una volta che il pane è freddo, taglialo a fette spesse. 2. **Preparazione dei Pomodori**: Lava e affetta i pomodori freschi. Condiscili con olio extravergine d’oliva, sale, pepe e origano a piacere. 3. **Assemblaggio**: Su ogni fetta di pane di carrube, disponi una fetta di primo sale, alcuni pomodori conditi e qualche acciuga. 4. **Finitura**: Guarnisci con un filo d’olio d’oliva e una spolverata di origano. #### Servizio Servi il piatto a temperatura ambiente come antipasto gustoso e salutare.
-
----
-
-*Ricetta da @leguminando*

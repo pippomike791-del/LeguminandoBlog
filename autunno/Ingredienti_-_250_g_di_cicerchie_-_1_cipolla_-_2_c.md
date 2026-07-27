@@ -1,9 +1,0 @@
-# ### Ingredienti: - 250 g di cicerchie - 1 cipolla - 2 carote - 1 gambo di sedano
-
-![### Ingredienti: - 250 g di cicerchie - 1 cipolla - 2 carote - 1 gambo di sedano](18083994232600830.jpg)
-
-### Ingredienti: - 250 g di cicerchie - 1 cipolla - 2 carote - 1 gambo di sedano - 2 pomodori maturi (o 200 g di pomodori pelati) - 1 spicchio d’aglio - 1 litro di brodo vegetale - Olio extravergine d’oliva q.b. - Sale e pepe q.b. - Rosmarino fresco (opzionale) - Pepe nero macinato (opzionale) ### Procedimento: 1. **Preparazione delle cicerchie**: Se utilizzi cicerchie secche, mettile in ammollo in acqua fredda per almeno 12 ore. Scolale e risciacquale bene. 2. **Soffritto**: In una pentola capiente, scalda un filo d’olio d’oliva. Aggiungi la cipolla tritata, le carote a rondelle e il sedano a pezzetti. Fai soffriggere a fuoco medio fino a quando le verdure saranno morbide. 3. **Aggiungi l’aglio**: Inserisci lo spicchio d’aglio schiacciato e cuoci per un paio di minuti, facendo attenzione a non bruciarlo. 4. **Pomodori**: Aggiungi i pomodori tagliati a cubetti (o i pomodori pelati) e cuoci per circa 5-7 minuti, fino a quando i pomodori si saranno ammorbiditi. 5. **Cicerchie e brodo**: Aggiungi le cicerchie nella pentola e mescola bene. Versa il brodo vegetale caldo e porta a ebollizione. Riduci il fuoco e lascia sobbollire per circa 30-40 minuti, o fino a quando le cicerchie sono tenere. Se necessario, aggiungi un po’ d’acqua durante la cottura. 6. **Condimento**: Aggiusta di sale e pepe a piacere. Se ti piace, puoi aggiungere un rametto di rosmarino per aromatizzare la zuppa. 7. **Servire**: Una volta cotta, puoi frullare una parte della zuppa per renderla più cremosa, oppure servirla così com’è per avere una consistenza più rustica. 8. **Guarnizione**: Servi la zuppa calda, con un filo d’olio extravergine d’oliva a crudo e una spolverata di pepe nero macinato.
-
----
-
-*Ricetta da @leguminando*

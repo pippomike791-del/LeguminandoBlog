@@ -1,9 +1,0 @@
-# Ecco una ricetta per un dolce sano e gustoso a base di curcuma, farina di carrub
-
-![Ecco una ricetta per un dolce sano e gustoso a base di curcuma, farina di carrub](18058509118647360.jpg)
-
-Ecco una ricetta per un dolce sano e gustoso a base di curcuma, farina di carrube, miele e yogurt greco. Questo dolce è ideale per chi cerca un’opzione più leggera e nutriente. ### Muffin di curcuma e carrube #### Ingredienti: - 200 g di farina di carrube - 1 cucchiaino di curcuma in polvere - 1 cucchiaino di bicarbonato di sodio - 1 pizzico di sale - 2 uova - 150 g di yogurt greco - 100 g di miele - 50 ml di olio di semi (o olio di cocco) - 1 cucchiaino di estratto di vaniglia (opzionale) #### Procedimento: 1. **Preparazione del forno**: Preriscalda il forno a 180°C e prepara uno stampo per muffin con i pirottini di carta. 2. **Ingredienti secchi**: In una ciotola, setaccia la farina di carrube, la curcuma, il bicarbonato di sodio e il sale. Mescola bene. 3. **Ingredienti umidi**: In un’altra ciotola, sbatti le uova con il miele, lo yogurt greco, l’olio e l’estratto di vaniglia fino a ottenere un composto omogeneo. 4. **Unione degli ingredienti**: Aggiungi gradualmente gli ingredienti secchi a quelli umidi, mescolando delicatamente fino a quando non sono ben combinati. Non mescolare eccessivamente. 5. **Versare negli stampi**: Distribuisci l’impasto negli stampini per muffin, riempiendoli per circa 2/3. 6. **Cottura**: Inforna per 20-25 minuti, o fino a quando i muffin non risultano dorati e uno stecchino inserito nel centro esce pulito. 7. **Raffreddamento**: Lascia raffreddare i muffin nello stampo per circa 5 minuti, poi trasferiscili su una griglia per raffreddarli completamente. #### Servizio: Servi i muffin di curcuma e carrube a colazione o come merenda sana. Puoi accompagnarli con un po’ di yogurt greco o miele per un tocco extra.
-
----
-
-*Ricetta da @leguminando*

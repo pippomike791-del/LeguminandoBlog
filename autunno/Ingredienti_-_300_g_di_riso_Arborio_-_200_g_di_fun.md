@@ -1,9 +1,0 @@
-# ## Ingredienti: - 300 g di riso Arborio - 200 g di funghi porcini freschi (o sec
-
-![## Ingredienti: - 300 g di riso Arborio - 200 g di funghi porcini freschi (o sec](18089595007612062.jpg)
-
-## Ingredienti: - 300 g di riso Arborio - 200 g di funghi porcini freschi (o secchi) - 150 g di asparagi - 1 porro - 100 g di piselli freschi o surgelati - 1 litro di brodo vegetale - 1/2 bicchiere di vino bianco secco - 50 g di parmigiano grattugiato - 3 cucchiai di olio extravergine d’oliva - Sale e pepe q.b. - Prezzemolo fresco per guarnire ### Procedimento: 1. **Preparazione degli ingredienti**: Se usi funghi porcini secchi, mettili in ammollo in acqua calda per circa 30 minuti. Taglia i funghi porcini freschi a fette. Pulisci e affetta il porro. Lava gli asparagi e tagliali a pezzi di circa 3-4 cm. 2. **Cottura dei funghi e porri**: In una pentola, scalda 2 cucchiai d’olio e aggiungi il porro. Fai soffriggere a fuoco medio fino a quando diventa trasparente. Aggiungi i funghi e cuoci per altri 5-7 minuti. 3. **Cottura del riso**: Aggiungi il riso nella pentola e fallo tostare per un paio di minuti. Sfuma con il vino bianco e lascia evaporare. 4. **Aggiunta del brodo**: Inizia ad aggiungere il brodo vegetale caldo, un mestolo alla volta, mescolando frequentemente. Aggiungi gli asparagi e i piselli dopo circa 5 minuti. 5. **Cottura finale**: Continua a cuocere il risotto per circa 15-18 minuti, fino a quando il riso è al dente. Regola di sale e pepe a piacere. 6. **Mantecatura**: Togli il risotto dal fuoco e aggiungi il parmigiano grattugiato e un cucchiaio d’olio restante. Mescola bene fino a ottenere una consistenza cremosa. 7. **Servizio**: Lascia riposare il risotto per un paio di minuti, poi servi caldo, guarnito con prezzemolo fresco tritato.
-
----
-
-*Ricetta da @leguminando*
