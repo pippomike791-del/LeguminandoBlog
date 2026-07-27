@@ -1,0 +1,223 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ingredienti Per le tortillas • 200 g farina di ceci • 150 g polpa di zucca (grat - Leguminando</title>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body {
+            font-family: 'Georgia', serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            padding: 20px;
+        }
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            background: white;
+            border-radius: 20px;
+            overflow: hidden;
+            box-shadow: 0 20px 60px rgba(0,0,0,0.3);
+        }
+        .recipe-image {
+            width: 100%;
+            height: 400px;
+            object-fit: cover;
+        }
+        .content { padding: 40px; }
+        .lang-tabs {
+            display: flex;
+            gap: 10px;
+            margin-bottom: 30px;
+            border-bottom: 2px solid #eee;
+            padding-bottom: 15px;
+        }
+        .lang-tab {
+            padding: 10px 20px;
+            border: none;
+            background: #f0f0f0;
+            border-radius: 25px;
+            cursor: pointer;
+            font-size: 0.9em;
+            transition: all 0.3s;
+        }
+        .lang-tab:hover { background: #667eea; color: white; }
+        .lang-tab.active { background: #667eea; color: white; }
+        .lang-content { display: none; }
+        .lang-content.active { display: block; }
+        h1 { font-size: 2.2em; margin-bottom: 20px; color: #333; }
+        h2 { font-size: 1.5em; margin: 25px 0 15px; color: #667eea; }
+        .ingredients-list { list-style: none; padding: 0; }
+        .ingredients-list li {
+            padding: 8px 0;
+            border-bottom: 1px solid #eee;
+            position: relative;
+            padding-left: 25px;
+        }
+        .ingredients-list li:before { content: "🫘"; position: absolute; left: 0; }
+        .steps { counter-reset: step; }
+        .steps li {
+            padding: 15px 0 15px 50px;
+            position: relative;
+            border-bottom: 1px solid #eee;
+        }
+        .steps li:before {
+            counter-increment: step;
+            content: counter(step);
+            position: absolute;
+            left: 0;
+            top: 15px;
+            background: #667eea;
+            color: white;
+            width: 35px;
+            height: 35px;
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-weight: bold;
+        }
+        .recipe-meta {
+            background: #f8f9fa;
+            padding: 15px;
+            border-radius: 10px;
+            margin-bottom: 20px;
+            display: flex;
+            gap: 20px;
+            flex-wrap: wrap;
+        }
+        .meta-item { display: flex; align-items: center; gap: 5px; }
+        .back-link {
+            display: inline-block;
+            margin-top: 30px;
+            color: #667eea;
+            text-decoration: none;
+            padding: 10px 20px;
+            border: 2px solid #667eea;
+            border-radius: 25px;
+            transition: all 0.3s;
+        }
+        .back-link:hover {
+            background: #667eea;
+            color: white;
+        }
+        .instagram-link {
+            display: block;
+            text-align: center;
+            margin-top: 20px;
+            padding: 15px;
+            background: linear-gradient(45deg, #f09433, #e6683c, #dc2743, #cc2366, #bc1888);
+            color: white;
+            text-decoration: none;
+            border-radius: 10px;
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <img src="18059833924661847.jpg" alt="Ingredienti Per le tortillas • 200 g farina di ceci • 150 g polpa di zucca (grat" class="recipe-image">
+        <div class="content">
+            <div class="lang-tabs">
+                <button class="lang-tab active" onclick="showLang('it')">🇮🇹 Italiano</button>
+                <button class="lang-tab" onclick="showLang('en')">🇬🇧 English</button>
+                <button class="lang-tab" onclick="showLang('es')">🇪🇸 Español</button>
+                <button class="lang-tab" onclick="showLang('pt')">🇵🇹 Português</button>
+            </div>
+            
+            <div id="lang-it" class="lang-content active">
+                <h1>Ingredienti Per le tortillas • 200 g farina di ceci • 150 g polpa di zucca (grat</h1>
+                <div class="recipe-meta">
+                    <div class="meta-item">🫘 Autunno</div>
+                    <div class="meta-item">📖 Ricetta #348</div>
+                </div>
+                <h2>📝 Ingredienti</h2>
+                <ul class="ingredients-list">
+                    <li>Ingredienti Per le tortillas • 200 g farina di ceci • 150 g polpa di zucca (grattugiata o frullata) • 1 carota media, grattugiata • 300 ml acqua (circa) • 2 cucchiai d’olio extravergine d’oliva • ½ cucchiaino di sale • ¼ cucchiaino di paprika dolce (facoltativa) • Un pizzico di pepe nero Per il ripieno • 4 uova • 1 porro medio, affettato sottile • 200 g foglie di cavolo nero, private della costa centrale e tagliate a striscioline • 1 cucchiaio d’olio extravergine d’oliva • Sale e pepe q.b. • (facoltativo) un filo di latte o latte vegetale per le uova</li>
+                </ul>
+                <h2>👨‍🍳 Preparazione</h2>
+                <ol class="steps">
+                    <li>1) Preparare la pastella delle tortillas a) In una ciotola capiente mescola farina di ceci, sale, paprika e pepe. b) Aggiungi l’acqua un po’ alla volta, mescolando con una frusta per evitare grumi. c) Unisci l’olio, la zucca e la carota grattugiata, amalgama bene fino a ottenere una pastella liscia e leggermente fluida (deve colare lentamente dal cucchiaio). d) Lasciala riposare 10 min. 2) Cuocere le tortillas a) Scalda una padella antiaderente di circa 20 cm di diametro, ungila leggermente con un filo d’olio. b) Versa un mestolo di pastella, ruota la padella in modo da distribuirla in uno strato sottile. c) Cuoci 2–3 min per lato, finché i bordi si staccano e compaiono bollicine. Ripeti fino a esaurire la pastella, ungendo la padella quando serve. d) Man mano tieni le tortillas coperte con un canovaccio pulito. 3) Preparare il ripieno di porri e cavolo nero a) In un’ampia padella scalda l’olio. b) Aggiungi il porro e falla appassire 3–4 min a fuoco medio, senza farla colorire troppo. c) Unisci il cavolo nero, aggiusta di sale, copri e lascia stufare 5–6 min mescolando ogni tanto. d) Trasferisci le verdure in una ciotola e tienile da parte. 4) Uova strapazzate a) Sbatti le uova con un pizzico di sale, pepe e, se vuoi, un goccio di latte. b) Nella padella calda (pulita o unta con poco olio), versa le uova e mescola delicatamente con una spatola finché saranno morbide e cremose. Spegni appena prendono consistenza.
+
+
+
+*Ricetta da @leguminando*</li>
+                </ol>
+            </div>
+            
+            <div id="lang-en" class="lang-content">
+                <h1>Ingredienti Per le tortillas • 200 g farina di ceci • 150 g polpa di zucca (grat</h1>
+                <div class="recipe-meta">
+                    <div class="meta-item">🫘 Autunno</div>
+                    <div class="meta-item">📖 Recipe #348</div>
+                </div>
+                <h2>📝 Ingredients</h2>
+                <ul class="ingredients-list">
+                    <li>Ingredienti Per le tortillas • 200 g farina di ceci • 150 g polpa di zucca (grattugiata o frullata) • 1 carota media, grattugiata • 300 ml acqua (circa) • 2 cucchiai d’olio extravergine d’oliva • ½ cucchiaino di sale • ¼ cucchiaino di paprika dolce (facoltativa) • Un pizzico di pepe nero Per il ripieno • 4 uova • 1 porro medio, affettato sottile • 200 g foglie di cavolo nero, private della costa centrale e tagliate a striscioline • 1 cucchiaio d’olio extravergine d’oliva • Sale e pepe q.b. • (facoltativo) un filo di latte o latte vegetale per le uova</li>
+                </ul>
+                <h2>👨‍🍳 Preparation</h2>
+                <ol class="steps">
+                    <li>1) Preparare la pastella delle tortillas a) In una ciotola capiente mescola farina di ceci, sale, paprika e pepe. b) Aggiungi l’acqua un po’ alla volta, mescolando con una frusta per evitare grumi. c) Unisci l’olio, la zucca e la carota grattugiata, amalgama bene fino a ottenere una pastella liscia e leggermente fluida (deve colare lentamente dal cucchiaio). d) Lasciala riposare 10 min. 2) Cuocere le tortillas a) Scalda una padella antiaderente di circa 20 cm di diametro, ungila leggermente con un filo d’olio. b) Versa un mestolo di pastella, ruota la padella in modo da distribuirla in uno strato sottile. c) Cuoci 2–3 min per lato, finché i bordi si staccano e compaiono bollicine. Ripeti fino a esaurire la pastella, ungendo la padella quando serve. d) Man mano tieni le tortillas coperte con un canovaccio pulito. 3) Preparare il ripieno di porri e cavolo nero a) In un’ampia padella scalda l’olio. b) Aggiungi il porro e falla appassire 3–4 min a fuoco medio, senza farla colorire troppo. c) Unisci il cavolo nero, aggiusta di sale, copri e lascia stufare 5–6 min mescolando ogni tanto. d) Trasferisci le verdure in una ciotola e tienile da parte. 4) Uova strapazzate a) Sbatti le uova con un pizzico di sale, pepe e, se vuoi, un goccio di latte. b) Nella padella calda (pulita o unta con poco olio), versa le uova e mescola delicatamente con una spatola finché saranno morbide e cremose. Spegni appena prendono consistenza.
+
+
+
+*Ricetta da @leguminando*</li>
+                </ol>
+            </div>
+            
+            <div id="lang-es" class="lang-content">
+                <h1>Ingredienti Per le tortillas • 200 g farina di ceci • 150 g polpa di zucca (grat</h1>
+                <div class="recipe-meta">
+                    <div class="meta-item">🫘 Autunno</div>
+                    <div class="meta-item">📖 Receta #348</div>
+                </div>
+                <h2>📝 Ingredientes</h2>
+                <ul class="ingredients-list">
+                    <li>Ingredienti Per le tortillas • 200 g farina di ceci • 150 g polpa di zucca (grattugiata o frullata) • 1 carota media, grattugiata • 300 ml acqua (circa) • 2 cucchiai d’olio extravergine d’oliva • ½ cucchiaino di sale • ¼ cucchiaino di paprika dolce (facoltativa) • Un pizzico di pepe nero Per il ripieno • 4 uova • 1 porro medio, affettato sottile • 200 g foglie di cavolo nero, private della costa centrale e tagliate a striscioline • 1 cucchiaio d’olio extravergine d’oliva • Sale e pepe q.b. • (facoltativo) un filo di latte o latte vegetale per le uova</li>
+                </ul>
+                <h2>👨‍🍳 Preparación</h2>
+                <ol class="steps">
+                    <li>1) Preparare la pastella delle tortillas a) In una ciotola capiente mescola farina di ceci, sale, paprika e pepe. b) Aggiungi l’acqua un po’ alla volta, mescolando con una frusta per evitare grumi. c) Unisci l’olio, la zucca e la carota grattugiata, amalgama bene fino a ottenere una pastella liscia e leggermente fluida (deve colare lentamente dal cucchiaio). d) Lasciala riposare 10 min. 2) Cuocere le tortillas a) Scalda una padella antiaderente di circa 20 cm di diametro, ungila leggermente con un filo d’olio. b) Versa un mestolo di pastella, ruota la padella in modo da distribuirla in uno strato sottile. c) Cuoci 2–3 min per lato, finché i bordi si staccano e compaiono bollicine. Ripeti fino a esaurire la pastella, ungendo la padella quando serve. d) Man mano tieni le tortillas coperte con un canovaccio pulito. 3) Preparare il ripieno di porri e cavolo nero a) In un’ampia padella scalda l’olio. b) Aggiungi il porro e falla appassire 3–4 min a fuoco medio, senza farla colorire troppo. c) Unisci il cavolo nero, aggiusta di sale, copri e lascia stufare 5–6 min mescolando ogni tanto. d) Trasferisci le verdure in una ciotola e tienile da parte. 4) Uova strapazzate a) Sbatti le uova con un pizzico di sale, pepe e, se vuoi, un goccio di latte. b) Nella padella calda (pulita o unta con poco olio), versa le uova e mescola delicatamente con una spatola finché saranno morbide e cremose. Spegni appena prendono consistenza.
+
+
+
+*Ricetta da @leguminando*</li>
+                </ol>
+            </div>
+            
+            <div id="lang-pt" class="lang-content">
+                <h1>Ingredienti Per le tortillas • 200 g farina di ceci • 150 g polpa di zucca (grat</h1>
+                <div class="recipe-meta">
+                    <div class="meta-item">🫘 Autunno</div>
+                    <div class="meta-item">📖 Receita #348</div>
+                </div>
+                <h2>📝 Ingredientes</h2>
+                <ul class="ingredients-list">
+                    <li>Ingredienti Per le tortillas • 200 g farina di ceci • 150 g polpa di zucca (grattugiata o frullata) • 1 carota media, grattugiata • 300 ml acqua (circa) • 2 cucchiai d’olio extravergine d’oliva • ½ cucchiaino di sale • ¼ cucchiaino di paprika dolce (facoltativa) • Un pizzico di pepe nero Per il ripieno • 4 uova • 1 porro medio, affettato sottile • 200 g foglie di cavolo nero, private della costa centrale e tagliate a striscioline • 1 cucchiaio d’olio extravergine d’oliva • Sale e pepe q.b. • (facoltativo) un filo di latte o latte vegetale per le uova</li>
+                </ul>
+                <h2>👨‍🍳 Preparo</h2>
+                <ol class="steps">
+                    <li>1) Preparare la pastella delle tortillas a) In una ciotola capiente mescola farina di ceci, sale, paprika e pepe. b) Aggiungi l’acqua un po’ alla volta, mescolando con una frusta per evitare grumi. c) Unisci l’olio, la zucca e la carota grattugiata, amalgama bene fino a ottenere una pastella liscia e leggermente fluida (deve colare lentamente dal cucchiaio). d) Lasciala riposare 10 min. 2) Cuocere le tortillas a) Scalda una padella antiaderente di circa 20 cm di diametro, ungila leggermente con un filo d’olio. b) Versa un mestolo di pastella, ruota la padella in modo da distribuirla in uno strato sottile. c) Cuoci 2–3 min per lato, finché i bordi si staccano e compaiono bollicine. Ripeti fino a esaurire la pastella, ungendo la padella quando serve. d) Man mano tieni le tortillas coperte con un canovaccio pulito. 3) Preparare il ripieno di porri e cavolo nero a) In un’ampia padella scalda l’olio. b) Aggiungi il porro e falla appassire 3–4 min a fuoco medio, senza farla colorire troppo. c) Unisci il cavolo nero, aggiusta di sale, copri e lascia stufare 5–6 min mescolando ogni tanto. d) Trasferisci le verdure in una ciotola e tienile da parte. 4) Uova strapazzate a) Sbatti le uova con un pizzico di sale, pepe e, se vuoi, un goccio di latte. b) Nella padella calda (pulita o unta con poco olio), versa le uova e mescola delicatamente con una spatola finché saranno morbide e cremose. Spegni appena prendono consistenza.
+
+
+
+*Ricetta da @leguminando*</li>
+                </ol>
+            </div>
+            
+            <a href="https://instagram.com/leguminando" target="_blank" class="instagram-link">📷 Segui @leguminando su Instagram</a>
+            <a href="../index.html" class="back-link">← Torna alla Home</a>
+        </div>
+    </div>
+    
+    <script>
+        function showLang(lang) {
+            document.querySelectorAll('.lang-content').forEach(el => el.classList.remove('active'));
+            document.querySelectorAll('.lang-tab').forEach(el => el.classList.remove('active'));
+            document.getElementById('lang-' + lang).classList.add('active');
+            event.target.classList.add('active');
+        }
+    </script>
+</body>
+</html>

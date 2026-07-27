@@ -1,0 +1,207 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>#leguminando Frittelle croccanti di calamari e zucchine con Spritz classico Ingr - Leguminando</title>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body {
+            font-family: 'Georgia', serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            padding: 20px;
+        }
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            background: white;
+            border-radius: 20px;
+            overflow: hidden;
+            box-shadow: 0 20px 60px rgba(0,0,0,0.3);
+        }
+        .recipe-image {
+            width: 100%;
+            height: 400px;
+            object-fit: cover;
+        }
+        .content { padding: 40px; }
+        .lang-tabs {
+            display: flex;
+            gap: 10px;
+            margin-bottom: 30px;
+            border-bottom: 2px solid #eee;
+            padding-bottom: 15px;
+        }
+        .lang-tab {
+            padding: 10px 20px;
+            border: none;
+            background: #f0f0f0;
+            border-radius: 25px;
+            cursor: pointer;
+            font-size: 0.9em;
+            transition: all 0.3s;
+        }
+        .lang-tab:hover { background: #667eea; color: white; }
+        .lang-tab.active { background: #667eea; color: white; }
+        .lang-content { display: none; }
+        .lang-content.active { display: block; }
+        h1 { font-size: 2.2em; margin-bottom: 20px; color: #333; }
+        h2 { font-size: 1.5em; margin: 25px 0 15px; color: #667eea; }
+        .ingredients-list { list-style: none; padding: 0; }
+        .ingredients-list li {
+            padding: 8px 0;
+            border-bottom: 1px solid #eee;
+            position: relative;
+            padding-left: 25px;
+        }
+        .ingredients-list li:before { content: "🫘"; position: absolute; left: 0; }
+        .steps { counter-reset: step; }
+        .steps li {
+            padding: 15px 0 15px 50px;
+            position: relative;
+            border-bottom: 1px solid #eee;
+        }
+        .steps li:before {
+            counter-increment: step;
+            content: counter(step);
+            position: absolute;
+            left: 0;
+            top: 15px;
+            background: #667eea;
+            color: white;
+            width: 35px;
+            height: 35px;
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-weight: bold;
+        }
+        .recipe-meta {
+            background: #f8f9fa;
+            padding: 15px;
+            border-radius: 10px;
+            margin-bottom: 20px;
+            display: flex;
+            gap: 20px;
+            flex-wrap: wrap;
+        }
+        .meta-item { display: flex; align-items: center; gap: 5px; }
+        .back-link {
+            display: inline-block;
+            margin-top: 30px;
+            color: #667eea;
+            text-decoration: none;
+            padding: 10px 20px;
+            border: 2px solid #667eea;
+            border-radius: 25px;
+            transition: all 0.3s;
+        }
+        .back-link:hover {
+            background: #667eea;
+            color: white;
+        }
+        .instagram-link {
+            display: block;
+            text-align: center;
+            margin-top: 20px;
+            padding: 15px;
+            background: linear-gradient(45deg, #f09433, #e6683c, #dc2743, #cc2366, #bc1888);
+            color: white;
+            text-decoration: none;
+            border-radius: 10px;
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <img src="18079390919242530.jpg" alt="#leguminando Frittelle croccanti di calamari e zucchine con Spritz classico Ingr" class="recipe-image">
+        <div class="content">
+            <div class="lang-tabs">
+                <button class="lang-tab active" onclick="showLang('it')">🇮🇹 Italiano</button>
+                <button class="lang-tab" onclick="showLang('en')">🇬🇧 English</button>
+                <button class="lang-tab" onclick="showLang('es')">🇪🇸 Español</button>
+                <button class="lang-tab" onclick="showLang('pt')">🇵🇹 Português</button>
+            </div>
+            
+            <div id="lang-it" class="lang-content active">
+                <h1>#leguminando Frittelle croccanti di calamari e zucchine con Spritz classico Ingr</h1>
+                <div class="recipe-meta">
+                    <div class="meta-item">🫘 Primavera</div>
+                    <div class="meta-item">📖 Ricetta #157</div>
+                </div>
+                <h2>📝 Ingredienti</h2>
+                <ul class="ingredients-list">
+                    <li>#leguminando Frittelle croccanti di calamari e zucchine con Spritz classico Ingredienti Per le frittelle - 200 g calamari freschi, puliti e tagliati ad anelli o a cubetti - 1 zucchina media (circa 150 g), grattugiata e ben strizzata (peso finale nella pastella ≈ 100 g) - 80 g farina 00 - 1 uovo grande (≈ 50 g) - 50 g pangrattato (o panko per maggiore croccantezza) - Scorza grattugiata di 1 limone biologico - Sale e pepe nero q.b. - Olio di semi di arachide per friggere (olio nella frittura assorbito stimato ≈ 20 g) Per lo Spritz - 60 ml Prosecco o spumante brut - 40 ml Aperol (o Campari per un gusto più amaro) - Un goccio di soda o acqua frizzante - 1 fetta d’arancia - Ghiaccio</li>
+                </ul>
+                <h2>👨‍🍳 Preparazione</h2>
+                <ol class="steps">
+                    <li>1. Grattugia la zucchina e strizzala molto bene per eliminare l’acqua in eccesso. 2. In una ciotola unisci i calamari, la zucchina strizzata, l’uovo, la farina, la scorza di limone, sale e pepe; mescola fino a ottenere un composto omogeneo e compatto. Se risultasse troppo molle aggiungi un cucchiaio di pangrattato. 3. Forma con un cucchiaio delle piccole frittelle o dischi e passali nel pangrattato premendo leggermente per farlo aderire. 4. Scalda l’olio in una padella profonda o in una friggitrice a 170–180 °C. Friggi poche frittelle per volta per 3–4 minuti, finché sono dorate e croccanti. Scolale su carta assorbente. 5. Per lo Spritz: in un bicchiere ampio pieno di ghiaccio versa Aperol, poi Prosecco e completa con la soda; guarnisci con la fetta d’arancia. 6. Servi le frittelle calde con una spruzzata di limone fresco e lo Spritz ghiacciato. Note - Allergeni: crostacei/ molluschi (calamari), glutine (farina, pangrattato), uova. - Variante più leggera: cuoci le frittelle in forno a 200 °C su carta forno leggermente unta per ~15–20 minuti girando a metà cottura (perdita di croccantezza rispetto alla frittura). Valori nutrizionali stimati (per tutta la ricetta e per porzione) Metodo: stima basata sugli ingredienti indicati; i valori reali variano in base a marca e assorbimento d’olio.</li>
+                </ol>
+            </div>
+            
+            <div id="lang-en" class="lang-content">
+                <h1>#leguminando Frittelle croccanti di calamari e zucchine con Spritz classico Ingr</h1>
+                <div class="recipe-meta">
+                    <div class="meta-item">🫘 Primavera</div>
+                    <div class="meta-item">📖 Recipe #157</div>
+                </div>
+                <h2>📝 Ingredients</h2>
+                <ul class="ingredients-list">
+                    <li>#leguminando Frittelle croccanti di calamari e zucchine con Spritz classico Ingredienti Per le frittelle - 200 g calamari freschi, puliti e tagliati ad anelli o a cubetti - 1 zucchina media (circa 150 g), grattugiata e ben strizzata (peso finale nella pastella ≈ 100 g) - 80 g farina 00 - 1 uovo grande (≈ 50 g) - 50 g pangrattato (o panko per maggiore croccantezza) - Scorza grattugiata di 1 limone biologico - Sale e pepe nero q.b. - Olio di semi di arachide per friggere (olio nella frittura assorbito stimato ≈ 20 g) Per lo Spritz - 60 ml Prosecco o spumante brut - 40 ml Aperol (o Campari per un gusto più amaro) - Un goccio di soda o acqua frizzante - 1 fetta d’arancia - Ghiaccio</li>
+                </ul>
+                <h2>👨‍🍳 Preparation</h2>
+                <ol class="steps">
+                    <li>1. Grattugia la zucchina e strizzala molto bene per eliminare l’acqua in eccesso. 2. In una ciotola unisci i calamari, la zucchina strizzata, l’uovo, la farina, la scorza di limone, sale e pepe; mescola fino a ottenere un composto omogeneo e compatto. Se risultasse troppo molle aggiungi un cucchiaio di pangrattato. 3. Forma con un cucchiaio delle piccole frittelle o dischi e passali nel pangrattato premendo leggermente per farlo aderire. 4. Scalda l’olio in una padella profonda o in una friggitrice a 170–180 °C. Friggi poche frittelle per volta per 3–4 minuti, finché sono dorate e croccanti. Scolale su carta assorbente. 5. Per lo Spritz: in un bicchiere ampio pieno di ghiaccio versa Aperol, poi Prosecco e completa con la soda; guarnisci con la fetta d’arancia. 6. Servi le frittelle calde con una spruzzata di limone fresco e lo Spritz ghiacciato. Note - Allergeni: crostacei/ molluschi (calamari), glutine (farina, pangrattato), uova. - Variante più leggera: cuoci le frittelle in forno a 200 °C su carta forno leggermente unta per ~15–20 minuti girando a metà cottura (perdita di croccantezza rispetto alla frittura). Valori nutrizionali stimati (per tutta la ricetta e per porzione) Metodo: stima basata sugli ingredienti indicati; i valori reali variano in base a marca e assorbimento d’olio.</li>
+                </ol>
+            </div>
+            
+            <div id="lang-es" class="lang-content">
+                <h1>#leguminando Frittelle croccanti di calamari e zucchine con Spritz classico Ingr</h1>
+                <div class="recipe-meta">
+                    <div class="meta-item">🫘 Primavera</div>
+                    <div class="meta-item">📖 Receta #157</div>
+                </div>
+                <h2>📝 Ingredientes</h2>
+                <ul class="ingredients-list">
+                    <li>#leguminando Frittelle croccanti di calamari e zucchine con Spritz classico Ingredienti Per le frittelle - 200 g calamari freschi, puliti e tagliati ad anelli o a cubetti - 1 zucchina media (circa 150 g), grattugiata e ben strizzata (peso finale nella pastella ≈ 100 g) - 80 g farina 00 - 1 uovo grande (≈ 50 g) - 50 g pangrattato (o panko per maggiore croccantezza) - Scorza grattugiata di 1 limone biologico - Sale e pepe nero q.b. - Olio di semi di arachide per friggere (olio nella frittura assorbito stimato ≈ 20 g) Per lo Spritz - 60 ml Prosecco o spumante brut - 40 ml Aperol (o Campari per un gusto più amaro) - Un goccio di soda o acqua frizzante - 1 fetta d’arancia - Ghiaccio</li>
+                </ul>
+                <h2>👨‍🍳 Preparación</h2>
+                <ol class="steps">
+                    <li>1. Grattugia la zucchina e strizzala molto bene per eliminare l’acqua in eccesso. 2. In una ciotola unisci i calamari, la zucchina strizzata, l’uovo, la farina, la scorza di limone, sale e pepe; mescola fino a ottenere un composto omogeneo e compatto. Se risultasse troppo molle aggiungi un cucchiaio di pangrattato. 3. Forma con un cucchiaio delle piccole frittelle o dischi e passali nel pangrattato premendo leggermente per farlo aderire. 4. Scalda l’olio in una padella profonda o in una friggitrice a 170–180 °C. Friggi poche frittelle per volta per 3–4 minuti, finché sono dorate e croccanti. Scolale su carta assorbente. 5. Per lo Spritz: in un bicchiere ampio pieno di ghiaccio versa Aperol, poi Prosecco e completa con la soda; guarnisci con la fetta d’arancia. 6. Servi le frittelle calde con una spruzzata di limone fresco e lo Spritz ghiacciato. Note - Allergeni: crostacei/ molluschi (calamari), glutine (farina, pangrattato), uova. - Variante più leggera: cuoci le frittelle in forno a 200 °C su carta forno leggermente unta per ~15–20 minuti girando a metà cottura (perdita di croccantezza rispetto alla frittura). Valori nutrizionali stimati (per tutta la ricetta e per porzione) Metodo: stima basata sugli ingredienti indicati; i valori reali variano in base a marca e assorbimento d’olio.</li>
+                </ol>
+            </div>
+            
+            <div id="lang-pt" class="lang-content">
+                <h1>#leguminando Frittelle croccanti di calamari e zucchine con Spritz classico Ingr</h1>
+                <div class="recipe-meta">
+                    <div class="meta-item">🫘 Primavera</div>
+                    <div class="meta-item">📖 Receita #157</div>
+                </div>
+                <h2>📝 Ingredientes</h2>
+                <ul class="ingredients-list">
+                    <li>#leguminando Frittelle croccanti di calamari e zucchine con Spritz classico Ingredienti Per le frittelle - 200 g calamari freschi, puliti e tagliati ad anelli o a cubetti - 1 zucchina media (circa 150 g), grattugiata e ben strizzata (peso finale nella pastella ≈ 100 g) - 80 g farina 00 - 1 uovo grande (≈ 50 g) - 50 g pangrattato (o panko per maggiore croccantezza) - Scorza grattugiata di 1 limone biologico - Sale e pepe nero q.b. - Olio di semi di arachide per friggere (olio nella frittura assorbito stimato ≈ 20 g) Per lo Spritz - 60 ml Prosecco o spumante brut - 40 ml Aperol (o Campari per un gusto più amaro) - Un goccio di soda o acqua frizzante - 1 fetta d’arancia - Ghiaccio</li>
+                </ul>
+                <h2>👨‍🍳 Preparo</h2>
+                <ol class="steps">
+                    <li>1. Grattugia la zucchina e strizzala molto bene per eliminare l’acqua in eccesso. 2. In una ciotola unisci i calamari, la zucchina strizzata, l’uovo, la farina, la scorza di limone, sale e pepe; mescola fino a ottenere un composto omogeneo e compatto. Se risultasse troppo molle aggiungi un cucchiaio di pangrattato. 3. Forma con un cucchiaio delle piccole frittelle o dischi e passali nel pangrattato premendo leggermente per farlo aderire. 4. Scalda l’olio in una padella profonda o in una friggitrice a 170–180 °C. Friggi poche frittelle per volta per 3–4 minuti, finché sono dorate e croccanti. Scolale su carta assorbente. 5. Per lo Spritz: in un bicchiere ampio pieno di ghiaccio versa Aperol, poi Prosecco e completa con la soda; guarnisci con la fetta d’arancia. 6. Servi le frittelle calde con una spruzzata di limone fresco e lo Spritz ghiacciato. Note - Allergeni: crostacei/ molluschi (calamari), glutine (farina, pangrattato), uova. - Variante più leggera: cuoci le frittelle in forno a 200 °C su carta forno leggermente unta per ~15–20 minuti girando a metà cottura (perdita di croccantezza rispetto alla frittura). Valori nutrizionali stimati (per tutta la ricetta e per porzione) Metodo: stima basata sugli ingredienti indicati; i valori reali variano in base a marca e assorbimento d’olio.</li>
+                </ol>
+            </div>
+            
+            <a href="https://instagram.com/leguminando" target="_blank" class="instagram-link">📷 Segui @leguminando su Instagram</a>
+            <a href="../index.html" class="back-link">← Torna alla Home</a>
+        </div>
+    </div>
+    
+    <script>
+        function showLang(lang) {
+            document.querySelectorAll('.lang-content').forEach(el => el.classList.remove('active'));
+            document.querySelectorAll('.lang-tab').forEach(el => el.classList.remove('active'));
+            document.getElementById('lang-' + lang).classList.add('active');
+            event.target.classList.add('active');
+        }
+    </script>
+</body>
+</html>

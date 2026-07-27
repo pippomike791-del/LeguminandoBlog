@@ -1,0 +1,223 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>### Ingredienti - Parte 1 #### Per i cuori di baccalà: - 4 filetti di baccalà (c - Leguminando</title>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body {
+            font-family: 'Georgia', serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            padding: 20px;
+        }
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            background: white;
+            border-radius: 20px;
+            overflow: hidden;
+            box-shadow: 0 20px 60px rgba(0,0,0,0.3);
+        }
+        .recipe-image {
+            width: 100%;
+            height: 400px;
+            object-fit: cover;
+        }
+        .content { padding: 40px; }
+        .lang-tabs {
+            display: flex;
+            gap: 10px;
+            margin-bottom: 30px;
+            border-bottom: 2px solid #eee;
+            padding-bottom: 15px;
+        }
+        .lang-tab {
+            padding: 10px 20px;
+            border: none;
+            background: #f0f0f0;
+            border-radius: 25px;
+            cursor: pointer;
+            font-size: 0.9em;
+            transition: all 0.3s;
+        }
+        .lang-tab:hover { background: #667eea; color: white; }
+        .lang-tab.active { background: #667eea; color: white; }
+        .lang-content { display: none; }
+        .lang-content.active { display: block; }
+        h1 { font-size: 2.2em; margin-bottom: 20px; color: #333; }
+        h2 { font-size: 1.5em; margin: 25px 0 15px; color: #667eea; }
+        .ingredients-list { list-style: none; padding: 0; }
+        .ingredients-list li {
+            padding: 8px 0;
+            border-bottom: 1px solid #eee;
+            position: relative;
+            padding-left: 25px;
+        }
+        .ingredients-list li:before { content: "🫘"; position: absolute; left: 0; }
+        .steps { counter-reset: step; }
+        .steps li {
+            padding: 15px 0 15px 50px;
+            position: relative;
+            border-bottom: 1px solid #eee;
+        }
+        .steps li:before {
+            counter-increment: step;
+            content: counter(step);
+            position: absolute;
+            left: 0;
+            top: 15px;
+            background: #667eea;
+            color: white;
+            width: 35px;
+            height: 35px;
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-weight: bold;
+        }
+        .recipe-meta {
+            background: #f8f9fa;
+            padding: 15px;
+            border-radius: 10px;
+            margin-bottom: 20px;
+            display: flex;
+            gap: 20px;
+            flex-wrap: wrap;
+        }
+        .meta-item { display: flex; align-items: center; gap: 5px; }
+        .back-link {
+            display: inline-block;
+            margin-top: 30px;
+            color: #667eea;
+            text-decoration: none;
+            padding: 10px 20px;
+            border: 2px solid #667eea;
+            border-radius: 25px;
+            transition: all 0.3s;
+        }
+        .back-link:hover {
+            background: #667eea;
+            color: white;
+        }
+        .instagram-link {
+            display: block;
+            text-align: center;
+            margin-top: 20px;
+            padding: 15px;
+            background: linear-gradient(45deg, #f09433, #e6683c, #dc2743, #cc2366, #bc1888);
+            color: white;
+            text-decoration: none;
+            border-radius: 10px;
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <img src="18465341311050662.jpg" alt="### Ingredienti - Parte 1 #### Per i cuori di baccalà: - 4 filetti di baccalà (c" class="recipe-image">
+        <div class="content">
+            <div class="lang-tabs">
+                <button class="lang-tab active" onclick="showLang('it')">🇮🇹 Italiano</button>
+                <button class="lang-tab" onclick="showLang('en')">🇬🇧 English</button>
+                <button class="lang-tab" onclick="showLang('es')">🇪🇸 Español</button>
+                <button class="lang-tab" onclick="showLang('pt')">🇵🇹 Português</button>
+            </div>
+            
+            <div id="lang-it" class="lang-content active">
+                <h1>### Ingredienti - Parte 1 #### Per i cuori di baccalà: - 4 filetti di baccalà (c</h1>
+                <div class="recipe-meta">
+                    <div class="meta-item">🫘 Inverno</div>
+                    <div class="meta-item">📖 Ricetta #449</div>
+                </div>
+                <h2>📝 Ingredienti</h2>
+                <ul class="ingredients-list">
+                    <li>### Ingredienti - Parte 1 #### Per i cuori di baccalà: - 4 filetti di baccalà (circa 150 g ciascuno, già dissalati) - 100 g di pistacchi non salati, tritati - 50 g di Parmigiano Reggiano grattugiato - 2 cucchiai di olio d’oliva - Sale e pepe q.b. - Succo di limone ####</li>
+                </ul>
+                <h2>👨‍🍳 Preparazione</h2>
+                <ol class="steps">
+                    <li>del baccalà: 1. **Preriscalda il forno:** Imposta il forno a 200°C in modo che sia caldo al momento di infornare il baccalà. 2. **Prepara la crosta:** In una ciotola, mescola i pistacchi tritati con il Parmigiano Reggiano grattugiato. Aggiungi un pizzico di sale e pepe. Questa miscela darà una crosta croccante e saporita. 3. **Condire il baccalà:** Posiziona i filetti di baccalà su una teglia foderata con carta da forno. Assicurati che i filetti siano ben distanziati e asciutti. Spennella generosamente la superficie di ciascun filetto con olio d’oliva e spruzza con succo di limone. Questo non solo condirà il pesce, ma aiuterà anche la crosta ad aderire meglio. 4. **Aggiungere la crosta:** Prendi la miscela di pistacchi e Parmigiano e distribuiscila uniformemente sopra ciascun filetto di baccalà. Premi leggermente la crosta affinché aderisca bene al pesce. 5. **Cuocere in forno:** Inforna i filetti di baccalà per circa 15-20 minuti, o fino a quando il pesce è cotto (dovrebbe sfaldarsi facilmente con una forchetta) e la crosta è dorata e croccante. Se necessario, puoi accendere il grill negli ultimi minuti per ottenere una crosta ancora più dorata.
+
+
+
+*Ricetta da @leguminando*</li>
+                </ol>
+            </div>
+            
+            <div id="lang-en" class="lang-content">
+                <h1>### Ingredienti - Parte 1 #### Per i cuori di baccalà: - 4 filetti di baccalà (c</h1>
+                <div class="recipe-meta">
+                    <div class="meta-item">🫘 Inverno</div>
+                    <div class="meta-item">📖 Recipe #449</div>
+                </div>
+                <h2>📝 Ingredients</h2>
+                <ul class="ingredients-list">
+                    <li>### Ingredienti - Parte 1 #### Per i cuori di baccalà: - 4 filetti di baccalà (circa 150 g ciascuno, già dissalati) - 100 g di pistacchi non salati, tritati - 50 g di Parmigiano Reggiano grattugiato - 2 cucchiai di olio d’oliva - Sale e pepe q.b. - Succo di limone ####</li>
+                </ul>
+                <h2>👨‍🍳 Preparation</h2>
+                <ol class="steps">
+                    <li>del baccalà: 1. **Preriscalda il forno:** Imposta il forno a 200°C in modo che sia caldo al momento di infornare il baccalà. 2. **Prepara la crosta:** In una ciotola, mescola i pistacchi tritati con il Parmigiano Reggiano grattugiato. Aggiungi un pizzico di sale e pepe. Questa miscela darà una crosta croccante e saporita. 3. **Condire il baccalà:** Posiziona i filetti di baccalà su una teglia foderata con carta da forno. Assicurati che i filetti siano ben distanziati e asciutti. Spennella generosamente la superficie di ciascun filetto con olio d’oliva e spruzza con succo di limone. Questo non solo condirà il pesce, ma aiuterà anche la crosta ad aderire meglio. 4. **Aggiungere la crosta:** Prendi la miscela di pistacchi e Parmigiano e distribuiscila uniformemente sopra ciascun filetto di baccalà. Premi leggermente la crosta affinché aderisca bene al pesce. 5. **Cuocere in forno:** Inforna i filetti di baccalà per circa 15-20 minuti, o fino a quando il pesce è cotto (dovrebbe sfaldarsi facilmente con una forchetta) e la crosta è dorata e croccante. Se necessario, puoi accendere il grill negli ultimi minuti per ottenere una crosta ancora più dorata.
+
+
+
+*Ricetta da @leguminando*</li>
+                </ol>
+            </div>
+            
+            <div id="lang-es" class="lang-content">
+                <h1>### Ingredienti - Parte 1 #### Per i cuori di baccalà: - 4 filetti di baccalà (c</h1>
+                <div class="recipe-meta">
+                    <div class="meta-item">🫘 Inverno</div>
+                    <div class="meta-item">📖 Receta #449</div>
+                </div>
+                <h2>📝 Ingredientes</h2>
+                <ul class="ingredients-list">
+                    <li>### Ingredienti - Parte 1 #### Per i cuori di baccalà: - 4 filetti di baccalà (circa 150 g ciascuno, già dissalati) - 100 g di pistacchi non salati, tritati - 50 g di Parmigiano Reggiano grattugiato - 2 cucchiai di olio d’oliva - Sale e pepe q.b. - Succo di limone ####</li>
+                </ul>
+                <h2>👨‍🍳 Preparación</h2>
+                <ol class="steps">
+                    <li>del baccalà: 1. **Preriscalda il forno:** Imposta il forno a 200°C in modo che sia caldo al momento di infornare il baccalà. 2. **Prepara la crosta:** In una ciotola, mescola i pistacchi tritati con il Parmigiano Reggiano grattugiato. Aggiungi un pizzico di sale e pepe. Questa miscela darà una crosta croccante e saporita. 3. **Condire il baccalà:** Posiziona i filetti di baccalà su una teglia foderata con carta da forno. Assicurati che i filetti siano ben distanziati e asciutti. Spennella generosamente la superficie di ciascun filetto con olio d’oliva e spruzza con succo di limone. Questo non solo condirà il pesce, ma aiuterà anche la crosta ad aderire meglio. 4. **Aggiungere la crosta:** Prendi la miscela di pistacchi e Parmigiano e distribuiscila uniformemente sopra ciascun filetto di baccalà. Premi leggermente la crosta affinché aderisca bene al pesce. 5. **Cuocere in forno:** Inforna i filetti di baccalà per circa 15-20 minuti, o fino a quando il pesce è cotto (dovrebbe sfaldarsi facilmente con una forchetta) e la crosta è dorata e croccante. Se necessario, puoi accendere il grill negli ultimi minuti per ottenere una crosta ancora più dorata.
+
+
+
+*Ricetta da @leguminando*</li>
+                </ol>
+            </div>
+            
+            <div id="lang-pt" class="lang-content">
+                <h1>### Ingredienti - Parte 1 #### Per i cuori di baccalà: - 4 filetti di baccalà (c</h1>
+                <div class="recipe-meta">
+                    <div class="meta-item">🫘 Inverno</div>
+                    <div class="meta-item">📖 Receita #449</div>
+                </div>
+                <h2>📝 Ingredientes</h2>
+                <ul class="ingredients-list">
+                    <li>### Ingredienti - Parte 1 #### Per i cuori di baccalà: - 4 filetti di baccalà (circa 150 g ciascuno, già dissalati) - 100 g di pistacchi non salati, tritati - 50 g di Parmigiano Reggiano grattugiato - 2 cucchiai di olio d’oliva - Sale e pepe q.b. - Succo di limone ####</li>
+                </ul>
+                <h2>👨‍🍳 Preparo</h2>
+                <ol class="steps">
+                    <li>del baccalà: 1. **Preriscalda il forno:** Imposta il forno a 200°C in modo che sia caldo al momento di infornare il baccalà. 2. **Prepara la crosta:** In una ciotola, mescola i pistacchi tritati con il Parmigiano Reggiano grattugiato. Aggiungi un pizzico di sale e pepe. Questa miscela darà una crosta croccante e saporita. 3. **Condire il baccalà:** Posiziona i filetti di baccalà su una teglia foderata con carta da forno. Assicurati che i filetti siano ben distanziati e asciutti. Spennella generosamente la superficie di ciascun filetto con olio d’oliva e spruzza con succo di limone. Questo non solo condirà il pesce, ma aiuterà anche la crosta ad aderire meglio. 4. **Aggiungere la crosta:** Prendi la miscela di pistacchi e Parmigiano e distribuiscila uniformemente sopra ciascun filetto di baccalà. Premi leggermente la crosta affinché aderisca bene al pesce. 5. **Cuocere in forno:** Inforna i filetti di baccalà per circa 15-20 minuti, o fino a quando il pesce è cotto (dovrebbe sfaldarsi facilmente con una forchetta) e la crosta è dorata e croccante. Se necessario, puoi accendere il grill negli ultimi minuti per ottenere una crosta ancora più dorata.
+
+
+
+*Ricetta da @leguminando*</li>
+                </ol>
+            </div>
+            
+            <a href="https://instagram.com/leguminando" target="_blank" class="instagram-link">📷 Segui @leguminando su Instagram</a>
+            <a href="../index.html" class="back-link">← Torna alla Home</a>
+        </div>
+    </div>
+    
+    <script>
+        function showLang(lang) {
+            document.querySelectorAll('.lang-content').forEach(el => el.classList.remove('active'));
+            document.querySelectorAll('.lang-tab').forEach(el => el.classList.remove('active'));
+            document.getElementById('lang-' + lang).classList.add('active');
+            event.target.classList.add('active');
+        }
+    </script>
+</body>
+</html>
