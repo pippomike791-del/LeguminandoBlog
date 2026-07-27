@@ -3,51 +3,124 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Leguminando - Ricette di Stagione</title>
+    <title>Leguminando - Ricette di Stagione a Base di Legumi</title>
     <style>
-        * {
-            margin: 0;
-            padding: 0;
-            box-sizing: border-box;
-        }
-        
+        * { margin: 0; padding: 0; box-sizing: border-box; }
         body {
             font-family: 'Georgia', serif;
             background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
             min-height: 100vh;
             padding: 20px;
         }
-        
         .container {
-            max-width: 1200px;
+            max-width: 1000px;
             margin: 0 auto;
         }
         
+        /* Header */
         header {
             text-align: center;
             padding: 40px 0;
             color: white;
         }
-        
+        .logo {
+            font-size: 4em;
+            margin-bottom: 10px;
+        }
         h1 {
-            font-size: 3.5em;
+            font-size: 3em;
             margin-bottom: 10px;
             text-shadow: 2px 2px 4px rgba(0,0,0,0.3);
         }
-        
-        .subtitle {
+        .tagline {
             font-size: 1.3em;
             opacity: 0.9;
             font-style: italic;
         }
         
-        .seasons-grid {
-            display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
-            gap: 30px;
-            margin-top: 40px;
+        /* Tabs Lingua */
+        .lang-tabs {
+            display: flex;
+            justify-content: center;
+            gap: 10px;
+            margin: 30px 0;
+            flex-wrap: wrap;
+        }
+        .lang-tab {
+            padding: 12px 25px;
+            border: 2px solid rgba(255,255,255,0.3);
+            background: rgba(255,255,255,0.1);
+            color: white;
+            border-radius: 30px;
+            cursor: pointer;
+            font-size: 1em;
+            transition: all 0.3s;
+        }
+        .lang-tab:hover {
+            background: rgba(255,255,255,0.3);
+        }
+        .lang-tab.active {
+            background: white;
+            color: #667eea;
+            border-color: white;
         }
         
+        /* Descrizione */
+        .description-box {
+            background: white;
+            border-radius: 20px;
+            padding: 40px;
+            margin-bottom: 40px;
+            box-shadow: 0 15px 35px rgba(0,0,0,0.2);
+        }
+        .lang-content {
+            display: none;
+        }
+        .lang-content.active {
+            display: block;
+        }
+        .lang-content h2 {
+            color: #667eea;
+            margin-bottom: 20px;
+            font-size: 2em;
+        }
+        .lang-content p {
+            line-height: 1.8;
+            color: #444;
+            margin-bottom: 15px;
+            font-size: 1.1em;
+        }
+        
+        /* Instagram Box */
+        .instagram-box {
+            background: linear-gradient(45deg, #f09433, #e6683c, #dc2743, #cc2366, #bc1888);
+            border-radius: 20px;
+            padding: 30px;
+            color: white;
+            text-align: center;
+            margin-bottom: 40px;
+        }
+        .instagram-box h3 {
+            font-size: 1.8em;
+            margin-bottom: 15px;
+        }
+        .instagram-box a {
+            color: white;
+            text-decoration: none;
+            font-size: 1.3em;
+            font-weight: bold;
+        }
+        .instagram-box a:hover {
+            text-decoration: underline;
+        }
+        
+        /* Season Cards */
+        .seasons-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+            gap: 25px;
+            margin-top: 40px;
+        }
         .season-card {
             background: white;
             border-radius: 20px;
@@ -55,40 +128,32 @@
             box-shadow: 0 15px 35px rgba(0,0,0,0.2);
             transition: transform 0.3s ease;
             cursor: pointer;
+            text-decoration: none;
+            color: inherit;
         }
-        
         .season-card:hover {
             transform: translateY(-10px);
         }
-        
-        .season-image {
-            width: 100%;
-            height: 200px;
-            object-fit: cover;
+        .season-icon {
+            font-size: 3em;
+            text-align: center;
+            padding: 30px;
         }
-        
         .season-content {
-            padding: 25px;
+            padding: 20px;
+            text-align: center;
         }
-        
         .season-title {
-            font-size: 1.8em;
+            font-size: 1.5em;
             margin-bottom: 10px;
             color: #333;
         }
-        
-        .season-description {
-            color: #666;
-            line-height: 1.6;
-        }
-        
-        .recipe-count {
+        .season-count {
             display: inline-block;
             background: #667eea;
             color: white;
             padding: 5px 15px;
             border-radius: 20px;
-            margin-top: 15px;
             font-size: 0.9em;
         }
         
@@ -103,75 +168,136 @@
             color: white;
             margin-top: 40px;
         }
-        
-        .social-links {
+        .footer-links {
             margin-top: 20px;
         }
-        
-        .social-links a {
+        .footer-links a {
             color: white;
             text-decoration: none;
             margin: 0 15px;
-            font-size: 1.2em;
         }
-        
-        .social-links a:hover {
+        .footer-links a:hover {
             text-decoration: underline;
         }
     </style>
 </head>
 <body>
     <div class="container">
+        
+        <!-- Header -->
         <header>
-            <h1>🫘 Leguminando</h1>
-            <p class="subtitle">Ricette di stagione a base di legumi</p>
+            <div class="logo">🫘</div>
+            <h1>Leguminando</h1>
+            <p class="tagline">Ricette di stagione a base di legumi</p>
         </header>
         
-        <div class="seasons-grid">
-            <div class="season-card spring" onclick="location.href='primavera/'">
-                <img src="primavera/17844928719581596.jpg" alt="Primavera" class="season-image">
-                <div class="season-content">
-                    <h2 class="season-title">🌸 Primavera</h2>
-                    <p class="season-description">Fave, asparagi, piselli e legumi freschi. Il risveglio della natura nel piatto.</p>
-                    <span class="recipe-count">175 ricette</span>
-                </div>
+        <!-- Tabs Lingua -->
+        <div class="lang-tabs">
+            <button class="lang-tab active" onclick="showLang('it')">🇮🇹 Italiano</button>
+            <button class="lang-tab" onclick="showLang('en')">🇬🇧 English</button>
+            <button class="lang-tab" onclick="showLang('es')">🇪🇸 Español</button>
+            <button class="lang-tab" onclick="showLang('pt')">🇵🇹 Português</button>
+        </div>
+        
+        <!-- Descrizioni Multilingua -->
+        <div class="description-box">
+            
+            <!-- ITALIANO -->
+            <div id="lang-it" class="lang-content active">
+                <h2>🫘 Chi Siamo</h2>
+                <p><strong>Leguminando</strong> è il primo food blog italiano dedicato esclusivamente ai legumi. Nato dalla passione per la cucina tradizionale e dalla consapevolezza ambientale, ogni ricetta celebra i legumi come protagonisti assoluti della tavola.</p>
+                <p>Dalle zuppe invernali alle insalate estive, dall'hummus alla farinata, esploriamo le infinite possibilità di ceci, lenticchie, fagioli, fave e piselli. Tutte le ricette sono <strong>senza carne</strong>, molte completamente <strong>vegane</strong>, e tutte pensate per chi cerca sapori autentici e sostenibilità.</p>
+                <p>Il nostro motto? <em>"I legumi non sono un contorno, sono la star del piatto!"</em></p>
             </div>
             
-            <div class="season-card summer" onclick="location.href='estate/'">
-                <img src="estate/17842872399481797.jpg" alt="Estate" class="season-image">
-                <div class="season-content">
-                    <h2 class="season-title">☀️ Estate</h2>
-                    <p class="season-description">Insalate fresche, hummus freddi e piatti leggeri per le giornate calde.</p>
-                    <span class="recipe-count">92 ricette</span>
-                </div>
+            <!-- ENGLISH -->
+            <div id="lang-en" class="lang-content">
+                <h2>🫘 About Us</h2>
+                <p><strong>Leguminando</strong> is the first Italian food blog exclusively dedicated to legumes. Born from a passion for traditional cuisine and environmental awareness, every recipe celebrates legumes as the absolute stars of the table.</p>
+                <p>From winter soups to summer salads, from hummus to farinata, we explore the infinite possibilities of chickpeas, lentils, beans, fava beans and peas. All recipes are <strong>meat-free</strong>, many completely <strong>vegan</strong>, and all designed for those seeking authentic flavors and sustainability.</p>
+                <p>Our motto? <em>"Legumes are not a side dish, they are the star of the plate!"</em></p>
             </div>
             
-            <div class="season-card autumn" onclick="location.href='autunno/'">
-                <img src="autunno/17843061222437592.jpg" alt="Autunno" class="season-image">
-                <div class="season-content">
-                    <h2 class="season-title">🍂 Autunno</h2>
-                    <p class="season-description">Zucche, funghi porcini, castagne e zuppe calde per i primi freddi.</p>
-                    <span class="recipe-count">147 ricette</span>
-                </div>
+            <!-- ESPAÑOL -->
+            <div id="lang-es" class="lang-content">
+                <h2>🫘 Quiénes Somos</h2>
+                <p><strong>Leguminando</strong> es el primer blog de cocina italiano dedicado exclusivamente a las legumbres. Nacido de la pasión por la cocina tradicional y la conciencia ambiental, cada receta celebra las legumbres como protagonistas absolutas de la mesa.</p>
+                <p>Desde sopas de invierno hasta ensaladas de verano, desde hummus hasta farinata, exploramos las infinitas posibilidades de garbanzos, lentejas, frijoles, habas y guisantes. Todas las recetas son <strong>sin carne</strong>, muchas completamente <strong>veganas</strong>, y todas pensadas para quienes buscan sabores auténticos y sostenibilidad.</p>
+                <p>¿Nuestro lema? <em>"¡Las legumbres no son un acompañamiento, son la estrella del plato!"</em></p>
             </div>
             
-            <div class="season-card winter" onclick="location.href='inverno/'">
-                <img src="inverno/17851980144435694.jpg" alt="Inverno" class="season-image">
-                <div class="season-content">
-                    <h2 class="season-title">❄️ Inverno</h2>
-                    <p class="season-description">Zuppe nutrienti, stufati ricchi e comfort food per le giornate più lunghe.</p>
-                    <span class="recipe-count">60 ricette</span>
-                </div>
+            <!-- PORTUGUÊS -->
+            <div id="lang-pt" class="lang-content">
+                <h2>🫘 Quem Somos</h2>
+                <p><strong>Leguminando</strong> é o primeiro blog de culinária italiano dedicado exclusivamente aos legumes. Nascido da paixão pela cozinha tradicional e da consciência ambiental, cada receita celebra os legumes como protagonistas absolutos da mesa.</p>
+                <p>De sopas de inverno a saladas de verão, de hummus a farinata, exploramos as infinitas possibilidades de grão-de-bico, lentilhas, feijões, favas e ervilhas. Todas as receitas são <strong>sem carne</strong>, muitas completamente <strong>veganas</strong>, e todas pensadas para quem busca sabores autênticos e sustentabilidade.</p>
+                <p>Nosso lema? <em>"Os legumes não são um acompanhamento, são a estrela do prato!"</em></p>
             </div>
         </div>
         
+        <!-- Instagram Box -->
+        <div class="instagram-box">
+            <h3>📷 Seguici su Instagram</h3>
+            <p>Tutte le ricette, i dietro le quinte e le novità in anteprima</p>
+            <a href="https://instagram.com/leguminando" target="_blank"><strong>@leguminando</strong></a>
+        </div>
+        
+        <!-- Season Cards -->
+        <div class="seasons-grid">
+            <a href="primavera/" class="season-card spring">
+                <div class="season-icon">🌸</div>
+                <div class="season-content">
+                    <h3 class="season-title">Primavera</h3>
+                    <span class="season-count">175 ricette</span>
+                </div>
+            </a>
+            
+            <a href="estate/" class="season-card summer">
+                <div class="season-icon">☀️</div>
+                <div class="season-content">
+                    <h3 class="season-title">Estate</h3>
+                    <span class="season-count">92 ricette</span>
+                </div>
+            </a>
+            
+            <a href="autunno/" class="season-card autumn">
+                <div class="season-icon">🍂</div>
+                <div class="season-content">
+                    <h3 class="season-title">Autunno</h3>
+                    <span class="season-count">147 ricette</span>
+                </div>
+            </a>
+            
+            <a href="inverno/" class="season-card winter">
+                <div class="season-icon">❄️</div>
+                <div class="season-content">
+                    <h3 class="season-title">Inverno</h3>
+                    <span class="season-count">60 ricette</span>
+                </div>
+            </a>
+        </div>
+        
         <footer>
-            <p>🫘 Leguminando - Tutte le ricette a base di legumi</p>
-            <div class="social-links">
+            <p>🫘 Leguminando - Ricette di stagione a base di legumi</p>
+            <div class="footer-links">
                 <a href="https://instagram.com/leguminando" target="_blank">📷 Instagram</a>
-                <a href="#">📧 Contatti</a>
+                <a href="mailto:info@leguminando.it">✉️ Email</a>
             </div>
+            <p style="margin-top: 20px; opacity: 0.7;">© 2024 Leguminando - Tutti i diritti riservati</p>
         </footer>
     </div>
+    
+    <script>
+        function showLang(lang) {
+            document.querySelectorAll('.lang-content').forEach(el => {
+                el.classList.remove('active');
+            });
+            document.querySelectorAll('.lang-tab').forEach(el => {
+                el.classList.remove('active');
+            });
+            document.getElementById('lang-' + lang).classList.add('active');
+            event.target.classList.add('active');
+        }
+    </script>
 </body>
 </html>
