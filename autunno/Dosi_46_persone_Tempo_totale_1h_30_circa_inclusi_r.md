@@ -1,0 +1,9 @@
+# Dosi: 4–6 persone Tempo totale: 1h 30’ circa (inclusi riposi) Ingredienti 1) Sfo
+
+![Dosi: 4–6 persone Tempo totale: 1h 30’ circa (inclusi riposi) Ingredienti 1) Sfo](18076218433944924.jpg)
+
+Dosi: 4–6 persone Tempo totale: 1h 30’ circa (inclusi riposi) Ingredienti 1) Sfoglia di ceci - 300 g farina di ceci - 150 ml acqua fredda - un pizzico di sale 2) Besciamella alla zucca - 300 g polpa di zucca (già pulita) - 30 g burro - 30 g farina 00 - 400 ml bevanda di soia - sale q.b. - noce moscata q.b. 3) Ripieno - 200 g cavolo nero - 200 g zucchine - 200 g funghi porcini freschi - 2 cucchiai olio extravergine d’oliva - sale e pepe q.b. - 100 g parmigiano grattugiato Procedimento 1. Sfoglia di ceci - Mescola farina di ceci e sale, incorpora l’acqua a filo con una frusta fino a crema omogenea, copri e riposa 30’. - Cuoci in padella antiaderente leggermente unta un mestolo di pastella per 1–2’ per lato, ottenendo 8–10 sfoglie. 2. Besciamella alla zucca - Cuoci la zucca a cubetti in poca acqua salata o al vapore, frullala. - Prepara un roux sciogliendo burro e farina per 1’, aggiungi la bevanda di soia a filo mescolando, poi la crema di zucca, sale e noce moscata; cuoci 5–6’ finché si addensa. 3. Ripieno di verdure e porcini - Taglia cavolo nero a striscioline, zucchine a rondelle e porcini a lamelle. - In padella calda con olio, rosola prima i porcini 4–5’ a fuoco vivo, poi aggiungi zucchine e infine cavolo; regola di sale e cuoci 5–7’ a fuoco medio. 4. Assemblaggio - Preriscalda il forno a 180 °C statico. Ungi leggermente una pirofila 20×25 cm. - Sul fondo stendi uno strato sottile di besciamella, poi alterna 2 sfoglie di ceci, un velo di besciamella, 1/3 delle verdure e poco parmigiano; ripeti per tre strati. - Termina con le ultime sfoglie, besciamella abbondante e il parmigiano rimasto. Inforna fino a gratinatura.
+
+---
+
+*Ricetta da @leguminando*

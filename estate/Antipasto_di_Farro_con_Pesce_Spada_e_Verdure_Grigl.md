@@ -1,0 +1,9 @@
+# ### Antipasto di Farro con Pesce Spada e Verdure Grigliate #### Ingredienti: - 2
+
+![### Antipasto di Farro con Pesce Spada e Verdure Grigliate #### Ingredienti: - 2](18091861114711055.jpg)
+
+### Antipasto di Farro con Pesce Spada e Verdure Grigliate #### Ingredienti: - 200 g di farro - 150 g di pesce spada - 1 zucchina - 1 carota - 1 peperone (rosso o giallo) - 2 pomodori maturi - 100 g di fagioli (preferibilmente cannellini o borlotti, già cotti) - Olio extravergine d’oliva q.b. - Succo di 1 limone - Sale e pepe q.b. - Erbe aromatiche fresche (prezzemolo o basilico) per guarnire #### Preparazione: 1. **Cottura del farro**: - Cuocere il farro in abbondante acqua salata seguendo le istruzioni sulla confezione fino a quando è tenero. Scolare e mettere da parte. 2. **Preparazione delle verdure**: - Lavare e tagliare la zucchina, la carota e il peperone a cubetti o a strisce. - In una padella o su una griglia, scaldare un filo d’olio e grigliare le verdure fino a quando sono tenere e leggermente dorate. Aggiungere sale e pepe a piacere. 3. **Cottura del pesce spada**: - Scaldare una griglia e condire il pesce spada con un filo d’olio, sale e pepe. Grigliare il pesce per circa 4-5 minuti per lato, fino a quando è ben cotto e ha delle belle striature. Rimuovere dal fuoco e tagliare a bocconcini. 4. **Assemblaggio dell’antipasto**: - In una ciotola grande, unire il farro cotto, le verdure grigliate, i pomodori tagliati a cubetti e i fagioli. Mescolare delicatamente. - Aggiungere il succo di limone e un filo d’olio d’oliva, mescolando bene per condire il tutto. 5. **Servire**: - Disporre l’insalata di farro su un piatto da portata e guarnire con i bocconcini di pesce spada grigliato e delle erbe aromatiche fresche. - Servire l’antipasto a temperatura ambiente o leggermente freddo.
+
+---
+
+*Ricetta da @leguminando*

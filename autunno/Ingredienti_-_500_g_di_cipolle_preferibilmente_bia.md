@@ -1,0 +1,9 @@
+# ### Ingredienti - **500 g di cipolle** (preferibilmente bianche o dorate) - **20
+
+![### Ingredienti - **500 g di cipolle** (preferibilmente bianche o dorate) - **20](18082843292234476.jpg)
+
+### Ingredienti - **500 g di cipolle** (preferibilmente bianche o dorate) - **200 g di lenticchie** (preferibilmente lenticchie rosse o verdi) - **200 g di salsiccia** (a scelta, dolce o piccante) - **1 litro di brodo vegetale** (o di carne, secondo preferenza) - **2 cucchiai di olio d’oliva** - **1 spicchio d’aglio**, tritato - **1 foglia di alloro** - **Sale e pepe** a piacere - **Panna da cucina** (facoltativa, per un tocco cremoso) - **Prezzemolo fresco**, tritato per guarnire ## Procedura 1. **Preparare le cipolle:** - Affettare sottilmente le cipolle. - In una pentola grande, scaldare l&#039;’lio d&#039;’liva e aggiungere le cipolle. Rosolare a fuoco medio-basso finché non diventano morbide e traslucide. 2. **Aggiungere l&#039;’glio:** - Unire l&#039;’glio tritato alle cipolle e cuocere per un altro minuto, facendo attenzione a non bruciarlo. 3. **Cuocere le lenticchie:** - Aggiungere le lenticchie, la foglia di alloro e il brodo nella pentola. Portare a ebollizione, quindi ridurre il fuoco e lasciare sobbollire per circa 25-30 minuti, finché le lenticchie non sono tenere. 4. **Cuocere la salsiccia:** - In una padella separata, rosolare la salsiccia fino a quando è ben cotta. Sgranarla con una forchetta mentre cuoce. 5. **Frullare la zuppa:** - Rimuovere la foglia di alloro dalla pentola. Usare un frullatore a immersione per ridurre la zuppa a una consistenza cremosa. - Se preferisci una consistenza più liscia, puoi passare la zuppa attraverso un colino. 6. **Unire la salsiccia:** - Aggiungere la salsiccia cotta alla crema di cipolle e lenticchie. Mescolare bene. 7. **Regolare il condimento:** - Aggiustare di sale e pepe secondo il gusto. Se gradisci, aggiungi un po’ di panna da cucina per renderla più cremosa.
+
+---
+
+*Ricetta da @leguminando*

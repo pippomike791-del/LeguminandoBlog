@@ -1,0 +1,9 @@
+# **Insalata di lenticchie rosse con baccalà, asparagi e olive taggiasche**
+
+![**Insalata di lenticchie rosse con baccalà, asparagi e olive taggiasche**](18345030115193822.jpg)
+
+**Insalata di lenticchie rosse con baccalà, asparagi e olive taggiasche**. ### Ingredienti: - 200 g di lenticchie rosse (&#064;oliociavatta) - 200 g di baccalà (già dissalato) - 150 g di asparagi freschi - 2 cucchiai di capperi - Succo di 1 limone - 2 uova - 100 g di olive taggiasche - Olio extravergine d’oliva - Sale e pepe q.b. ### Procedimento: 1. **Cottura delle lenticchie**: Metti le lenticchie rosse in una pentola con abbondante acqua salata e cuocile per circa 15 minuti, finché non diventano tenere. Scolale e lasciale raffreddare. 2. **Preparazione del baccalà**: Cuoci il baccalà in acqua bollente per circa 10-15 minuti, fino a quando non diventa tenero. Scolalo e sfaldalo in pezzi. 3. **Cottura degli asparagi**: In una pentola, porta a ebollizione dell’acqua salata e sbollenta gli asparagi per 3-4 minuti, finché non sono teneri ma ancora croccanti. Scolali e immergili in acqua fredda per bloccare la cottura. 4. **Cottura delle uova**: Cuoci le uova in acqua bollente per 6-7 minuti, poi raffreddale sotto acqua corrente e sbucciale. 5. **Assemblaggio dell’insalata**: In una ciotola grande, unisci le lenticchie, il baccalà, gli asparagi tagliati a pezzi, i capperi e le olive taggiasche. Aggiungi il succo di limone, un filo d’olio extravergine d’oliva, sale e pepe a piacere. 6. **Servire**: Taglia le uova a metà e disponile sopra l’insalata. Puoi guarnire con qualche cappero e un altro filo d’olio se desideri. ### Consigli: - Questa insalata è ottima sia tiepida che fredda, quindi puoi prepararla in anticipo. - Puoi aggiungere erbe fresche come prezzemolo o basilico per un tocco aromatico in più.
+
+---
+
+*Ricetta da @leguminando*

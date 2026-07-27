@@ -1,0 +1,9 @@
+# ## Ingredienti: #### Per il crostino con fagioli borlotti e porcini: - 200 g di 
+
+![## Ingredienti: #### Per il crostino con fagioli borlotti e porcini: - 200 g di ](18130214776447533.jpg)
+
+## Ingredienti: #### Per il crostino con fagioli borlotti e porcini: - 200 g di fagioli borlotti cotti - 100 g di funghi porcini freschi o surgelati - 2 cucchiai di olio d’oliva - Sale e pepe q.b. - Pane per crostini #### Per il crostino con ceci, tonno e cipolla: - 200 g di ceci cotti - 150 g di tonno in scatola - 1 piccola cipolla rossa - 2 cucchiai di olio d’oliva - Sale e pepe q.b. - Pane per crostini #### Per il crostino con lenticchie, peperoni e uovo sodo: - 200 g di lenticchie cotte - 1 peperone rosso - 2 uova sode - 2 cucchiai di olio d’oliva - Sale e pepe q.b. - Pane per crostini ### Preparazione: 1. **Crostino con fagioli borlotti e porcini:** - In una padella, scaldare l’olio d’oliva e aggiungere i funghi porcini tagliati a pezzetti. Cuocere fino a doratura. - Unire i fagioli borlotti e mescolare, schiacciando leggermente i fagioli con una forchetta per ottenere una crema. Aggiustare di sale e pepe. - Tostare le fette di pane e spalmare la crema di fagioli e funghi. 2. **Crostino con ceci, tonno e cipolla:** - In una ciotola, unire i ceci scolati, il tonno sbriciolato e la cipolla rossa tritata finemente. Condire con olio d’oliva, sale e pepe. - Tostare le fette di pane e adagiare sopra il mix di ceci e tonno. 3. **Crostino con lenticchie, peperoni e uovo sodo:** - In una ciotola, mescolare le lenticchie cotte con il peperone rosso tagliato a dadini e un filo d’olio d’oliva. Aggiustare di sale e pepe. - Tostare le fette di pane e guarnire con il mix di lenticchie. Aggiungere fette di uovo sodo sopra ogni crostino. 4. **Impiattamento:** - Disporre i crostini su un piatto di portata, decorando con erbe fresche a piacere.
+
+---
+
+*Ricetta da @leguminando*

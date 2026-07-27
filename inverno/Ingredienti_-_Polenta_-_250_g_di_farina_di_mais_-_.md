@@ -1,0 +1,9 @@
+# ### Ingredienti - **Polenta:** - 250 g di farina di mais - 100 g farina di ceci 
+
+![### Ingredienti - **Polenta:** - 250 g di farina di mais - 100 g farina di ceci ](18103648546625924.jpg)
+
+### Ingredienti - **Polenta:** - 250 g di farina di mais - 100 g farina di ceci - 1 litro di acqua - Sale q.b. - **Condimento:** - 200 g di funghi porcini freschi o secchi - 300 g di verza - 200 g di code di gambero, pulite - 2 spicchi d’aglio - Olio extravergine d’oliva q.b. - 1 bicchiere di vino bianco - Sale e pepe q.b. - Prezzemolo fresco tritato q.b. ## Procedimento 1. **Preparare la Polenta:** - Porta a ebollizione l&#039;’cqua con un pizzico di sale. - Versa lentamente le farine, mescolando continuamente per evitare grumi. - Cuoci a fuoco basso per circa 40-45 minuti, mescolando spesso, fino a ottenere una consistenza cremosa. 2. **Preparare il Condimento:** - Se usi funghi secchi, reidratarli in acqua tiepida per 20 minuti, poi scolali e asciugali. - Taglia i funghi porcini a fette e la verza a striscioline. - In una padella, scalda l&#039;’lio e soffriggi l&#039;’glio fino a doratura. - Aggiungi i funghi e cuoci fino a che diventano teneri. - Sfuma con il vino bianco e lascia evaporare l&#039;’lcol. - Aggiungi la verza e cuoci per altri 5-7 minuti. 3. **Cucinare le Code di Gambero:** - In un&#039;’ltra padella, scalda un filo d&#039;’lio e aggiungi le code di gambero. - Cuoci per 2-3 minuti per lato finché diventano rosa e opache. - Unisci le code di gambero ai funghi e alla verza, mescolando per amalgamare i sapori. - Aggiusta di sale e pepe e aggiungi il prezzemolo tritato. 4. **Servire:** - Versa la polenta calda su un piatto da portata. - Distribuisci sopra il condimento di funghi, verza e gamberi. - Guarnisci con un filo d&#039;’lio extravergine d’oliva e una spolverata di prezzemolo fresco.
+
+---
+
+*Ricetta da @leguminando*

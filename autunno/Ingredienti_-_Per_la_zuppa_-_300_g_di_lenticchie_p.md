@@ -1,0 +1,9 @@
+# ### Ingredienti - **Per la zuppa:** - 300 g di lenticchie (preferibilmente verdi
+
+![### Ingredienti - **Per la zuppa:** - 300 g di lenticchie (preferibilmente verdi](18130231582410577.jpg)
+
+### Ingredienti - **Per la zuppa:** - 300 g di lenticchie (preferibilmente verdi o marroni) - 500 g di vongole fresche - 1 cipolla media, tritata - 2 spicchi d’aglio, tritati - 2 carote, a dadini - 2 gambi di sedano, a dadini - 1 pomodoro maturo, pelato e tritato (o 200 g di pomodori pelati) - 1 litro di brodo vegetale o acqua - 1 rametto di rosmarino - 2 foglie di alloro - Olio extravergine d’oliva q.b. - Sale e pepe q.b. - Prezzemolo fresco tritato per guarnire ### Procedimento 1. **Preparazione delle vongole:** Assicurati che le vongole siano ben pulite. Mettile in una ciotola con acqua salata per almeno un’ora per farle spurgare. 2. **Cottura delle lenticchie:** In una pentola, scalda un po’ d’olio extravergine d’oliva. Aggiungi la cipolla, l’aglio, la carota e il sedano. Fai rosolare per circa 5 minuti, finché le verdure non sono morbide. 3. **Aggiungi le lenticchie:** Unisci le lenticchie sciacquate e mescola bene. Aggiungi il pomodoro, il rosmarino, le foglie di alloro e il brodo vegetale. Porta a ebollizione, poi riduci la fiamma e lascia cuocere per circa 25-30 minuti, finché le lenticchie sono tenere. 4. **Cottura delle vongole:** In un’altra pentola, aggiungi un filo d’olio e scalda. Aggiungi le vongole, copri e cuoci a fuoco medio-alto fino a quando si aprono (circa 5-7 minuti). Scarta le vongole non aperte. 5. **Unire tutto:** Una volta cotte le lenticchie, aggiungi le vongole alla zuppa. Mescola delicatamente e cuoci per ulteriori 5 minuti. Aggiusta di sale e pepe. 6. **Servire:** Rimuovi il rosmarino e le foglie di alloro. Servi la zuppa calda, guarnita con prezzemolo fresco tritato e un filo d’olio.
+
+---
+
+*Ricetta da @leguminando*

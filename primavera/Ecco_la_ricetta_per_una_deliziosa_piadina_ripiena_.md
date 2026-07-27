@@ -1,0 +1,9 @@
+# Ecco la ricetta per una deliziosa piadina ripiena con hummus di ceci, asparagi e
+
+![Ecco la ricetta per una deliziosa piadina ripiena con hummus di ceci, asparagi e](17922158690979874.jpg)
+
+Ecco la ricetta per una deliziosa piadina ripiena con hummus di ceci, asparagi e zucchine a fette sottili. ### Ingredienti **Per la piadina:** - 250g di farina di lenticchie - Acqua quanto basta - Sale q.b. **Per l’hummus:** - 200g di ceci (già cotti) - Succo di 1 limone - 1 peperoncino rosso (fresco o secco, a piacere) - 3 cucchiai di olio extravergine d’oliva - Sale q.b. **Per il ripieno:** - 200g di asparagi - 1 spicchio d’aglio - 2 zucchine - Olio extravergine d’oliva q.b. ### Preparazione 1. **Preparare la piadina:** - In una ciotola, mescola la farina di lenticchie con un pizzico di sale e aggiungi acqua poco alla volta fino a ottenere un impasto morbido e omogeneo. Lascia riposare per 15-20 minuti. - Stendi l’impasto in dischi sottili e cuoci in una padella antiaderente per circa 2-3 minuti per lato, finché non sono dorati. 2. **Preparare l’hummus:** - In un frullatore, unisci i ceci, il succo di limone, il peperoncino, l’olio d’oliva e un pizzico di sale. Frulla fino ad ottenere una crema liscia. Se necessario, aggiungi un po’ d’acqua per raggiungere la consistenza desiderata. 3. **Cuocere gli asparagi:** - In una padella, scalda un po’ d’olio d’oliva e aggiungi uno spicchio d’aglio tritato. Quando l’aglio è dorato, aggiungi gli asparagi e cuocili per circa 5-7 minuti, finché non sono teneri ma ancora croccanti. 4. **Cuocere le zucchine:** - Taglia le zucchine a fette sottili e grigliale su una piastra rovente per circa 2-3 minuti per lato, finché non hanno ottenuto delle belle righe e sono tenere. 5. **Comporre il piatto:** - Spalma una generosa quantità di hummus sulla piadina, aggiungi gli asparagi e le zucchine grigliate. Arrotola la piadina e tagliala a metà per servire.
+
+---
+
+*Ricetta da @leguminando*

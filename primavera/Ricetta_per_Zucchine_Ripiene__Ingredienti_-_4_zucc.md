@@ -1,0 +1,9 @@
+# ### Ricetta per Zucchine Ripiene #### Ingredienti: - 4 zucchine medie - 1 pepero
+
+![### Ricetta per Zucchine Ripiene #### Ingredienti: - 4 zucchine medie - 1 pepero](18052013672593718.jpg)
+
+### Ricetta per Zucchine Ripiene #### Ingredienti: - 4 zucchine medie - 1 peperone rosso - 1 peperone giallo - 1 cipolla rossa di Tropea - 100 g di olive taggiasche - 200 g di mozzarella - Foglie di basilico fresco - Olio extravergine di oliva - Sale e pepe q.b. - 200 g di ceci (già cotti o in scatola) #### Preparazione: 1. **Preparazione delle zucchine**: Lavare le zucchine, tagliarle a metà nel senso della lunghezza e svuotarle delicatamente con un cucchiaino, lasciando un po’ di polpa per il ripieno. 2. **Preparazione del ripieno**: In una padella, scaldare un filo d’olio extravergine di oliva. Aggiungere la cipolla rossa di Tropea tagliata a fettine e farla soffriggere fino a quando diventa trasparente. Aggiungere i peperoni tagliati a cubetti e continuare a cuocere per circa 5-7 minuti fino a che si ammorbidiscono. Incorporare la polpa delle zucchine tritata e le olive taggiasche, cuocendo per ulteriori 5 minuti. Aggiustare di sale e pepe. 3. **Assemblaggio**: Togliere la padella dal fuoco e unire la mozzarella tagliata a cubetti e le foglie di basilico spezzettate. Mescolare bene. 4. **Riempimento delle zucchine**: Preriscaldare il forno a 180°C. Riempire le zucchine svuotate con il ripieno preparato e disporle in una teglia. Irrorare con un filo d’olio e cuocere in forno per circa 25-30 minuti, o fino a quando le zucchine sono tenere e la mozzarella è fusa e dorata. 5. **Preparazione dei ceci**: In un’altra padella, scaldare un filo d’olio e aggiungere i ceci. Farli saltare per qualche minuto, aggiungendo eventualmente un po’ di sale e pepe a piacere. 6. **Impiattamento**: Servire le zucchine ripiene accompagnate dai ceci e da qualche oliva taggiasca extra. Decorare con foglie di basilico fresco.
+
+---
+
+*Ricetta da @leguminando*

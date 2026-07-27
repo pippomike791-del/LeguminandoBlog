@@ -1,0 +1,9 @@
+# Ingredienti - 500 g di cicoria (pulita e spezzettata) - 200 g di fagioli borlott
+
+![Ingredienti - 500 g di cicoria (pulita e spezzettata) - 200 g di fagioli borlott](18073967084591258.jpg)
+
+Ingredienti - 500 g di cicoria (pulita e spezzettata) - 200 g di fagioli borlotti già lessati (o in scatola, ben scolati) - 2 patate medie a cubetti - 1 cipolla piccola tritata - 1 costa di sedano tritata - 1 carota a rondelle - 2 spicchi d’aglio in camicia - 1 peperoncino fresco (o secco), a pezzi - 2 rametti di rosmarino - 3 cucchiai di olio extravergine d’oliva - 800 ml di brodo vegetale (o acqua + dado) - sale e pepe q.b. Procedimento 1. In una casseruola capiente scalda l’olio. Aggiungi cipolla, sedano e carota e fai imbiondire a fuoco dolce per 5-6 minuti. 2. Incorpora gli spicchi d’aglio e il peperoncino, mescola un minuto e unisci le patate. Continua la cottura per 3 minuti, mescolando. 3. Versa il brodo, aggiungi il rosmarino e porta a lieve bollore. Copri e lascia sobbollire 10 minuti. 4. Unisci la cicoria e i fagioli, sistema di sale e pepe. Prosegui la cottura a fuoco medio-basso per altri 15–20 minuti, finché le patate saranno tenere. 5. Rimuovi gli spicchi d’aglio e i rametti di rosmarino. Se preferisci una consistenza vellutata, frulla metà della zuppa con un frullatore a immersione, poi amalgama con il resto. Servizio - Servi la zuppa ben calda, con un filo di olio a crudo e, se ti piace, una spolverata di peperoncino in polvere. - Accompagna con crostini di pane casereccio o fette di pane integrale tostate. Varianti e consigli - Sostituisci la cicoria con bietole o spinaci per un sapore più dolce. - Aggiungi una manciata di pomodori secchi a pezzetti per un tocco umami. - Per una versione più ricca: soffriggi in padella 50 g di pancetta a cubetti e uniscila insieme agli ortaggi.
+
+---
+
+*Ricetta da @leguminando*

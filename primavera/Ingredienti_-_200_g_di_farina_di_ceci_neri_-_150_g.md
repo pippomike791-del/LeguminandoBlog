@@ -1,0 +1,9 @@
+# ### Ingredienti: - 200 g di farina di ceci neri - 150 g di cioccolato fondente (
+
+![### Ingredienti: - 200 g di farina di ceci neri - 150 g di cioccolato fondente (](17924740839047598.jpg)
+
+### Ingredienti: - 200 g di farina di ceci neri - 150 g di cioccolato fondente (minimo 70% di cacao) - 100 ml di olio d’oliva - 150 g di zucchero di canna (o dolcificante a piacere) - 200 ml di latte vegetale (ad esempio, latte di mandorle o soia) - 100 g di fragole essiccate - 1 cucchiaino di lievito in polvere - Un pizzico di sale - Estratto di vaniglia (opzionale) ### Procedimento: 1. **Preparazione degli ingredienti**: Preriscalda il forno a 180°C. Rivesti una tortiera con carta da forno o ungi con un po’ d’olio. 2. **Fondere il cioccolato**: In un pentolino a bagnomaria, sciogli il cioccolato fondente. Una volta fuso, lascia raffreddare leggermente. 3. **Mescolare gli ingredienti umidi**: In una ciotola, unisci l’olio d’oliva, lo zucchero e il latte vegetale. Mescola bene fino a ottenere un composto omogeneo. Aggiungi il cioccolato fuso e, se desideri, l’estratto di vaniglia. 4. **Unire gli ingredienti secchi**: In un’altra ciotola, setaccia la farina di ceci neri, il lievito in polvere e il pizzico di sale. Mescola bene. 5. **Combinare i composti**: Aggiungi gradualmente gli ingredienti secchi a quelli umidi, mescolando fino a ottenere un impasto liscio. Incorpora le fragole essiccate. 6. **Versare nella tortiera**: Trasferisci l’impasto nella tortiera preparata e livella la superficie. 7. **Cottura**: Cuoci in forno per circa 30-35 minuti, o fino a quando uno stecchino inserito al centro della torta esce pulito. 8. **Raffreddare e servire**: Lascia raffreddare la torta nella tortiera per 10 minuti, quindi trasferiscila su una gratella per raffreddarla completamente. Puoi servirla da sola o con una spolverata di zucchero a velo.
+
+---
+
+*Ricetta da @leguminando*

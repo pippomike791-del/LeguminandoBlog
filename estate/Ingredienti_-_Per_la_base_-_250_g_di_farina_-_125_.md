@@ -1,0 +1,9 @@
+# ### Ingredienti: - **Per la base:** - 250 g di farina - 125 g di burro freddo - 
+
+![### Ingredienti: - **Per la base:** - 250 g di farina - 125 g di burro freddo - ](18046573214348973.jpg)
+
+### Ingredienti: - **Per la base:** - 250 g di farina - 125 g di burro freddo - 1 uovo - 1 pizzico di sale - Acqua fredda q.b. - **Per il ripieno:** - 200 g di ceci neri (cotti o in scatola) - 2 acciughe sott’olio - 2 carote medie - 1 cipolla - 2 spicchi d’aglio - Olio d’oliva q.b. - Sale e pepe q.b. - Prezzemolo fresco tritato (facoltativo) ### Procedimento: 1. **Preparare la base:** - In una ciotola, mescolare la farina con il sale. Aggiungere il burro freddo tagliato a pezzetti e lavorare con le dita fino a ottenere un composto sabbioso. - Aggiungere l’uovo e un po’ d’acqua fredda, impastando fino a formare una palla. Avvolgere nella pellicola trasparente e lasciare riposare in frigorifero per 30 minuti. 2. **Preparare il ripieno:** - Tritare finemente la cipolla e l’aglio. Grattugiare le carote. - In una padella, scaldare un po’ d’olio d’oliva e soffriggere la cipolla e l’aglio fino a doratura. Aggiungere le carote grattugiate e cuocere per 5-7 minuti. - Unire i ceci neri e le acciughe, mescolando bene. Cuocere per altri 5 minuti, quindi aggiustare di sale e pepe. Se desiderato, aggiungere prezzemolo tritato. 3. **Assemblare la torta:** - Preriscaldare il forno a 180°C. - Stendere la pasta su un piano infarinato e rivestire una tortiera. Bucherellare il fondo con una forchetta. - Versare il ripieno di ceci e verdure sulla base e livellare bene. 4. **Cuocere:** - Cuocere in forno per circa 30-35 minuti, o fino a quando la superficie non è dorata. - Sfornare e lasciare raffreddare leggermente prima di servire. ### Servire: La torta salata può essere servita calda o a temperatura ambiente, accompagnata da una fresca insalata.
+
+---
+
+*Ricetta da @leguminando*

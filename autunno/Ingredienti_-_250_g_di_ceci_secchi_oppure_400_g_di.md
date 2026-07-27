@@ -1,0 +1,9 @@
+# ## Ingredienti: - 250 g di ceci secchi (oppure 400 g di ceci in scatola) - 100 g
+
+![## Ingredienti: - 250 g di ceci secchi (oppure 400 g di ceci in scatola) - 100 g](18030360353579381.jpg)
+
+## Ingredienti: - 250 g di ceci secchi (oppure 400 g di ceci in scatola) - 100 g di speck a cubetti - 1 cipolla - 2 carote - 2 gambi di sedano - 2 spicchi d’aglio - 1 litro di brodo vegetale (o acqua) - 4 cucchiai di olio extravergine d’oliva - Rosmarino fresco (o secco) q.b. - Sale e pepe q.b. - Pepe nero macinato (facoltativo) ### Procedimento: 1. **Preparazione dei ceci**: Se usi ceci secchi, mettili in ammollo per almeno 8 ore e poi lessali in acqua salata finché non sono teneri. Se usi ceci in scatola, scolali e sciacquali. 2. **Preparazione delle verdure**: Trita finemente la cipolla, le carote e il sedano. Schiaccia gli spicchi d’aglio. 3. **Soffritto**: In una pentola capiente, scalda l’olio d’oliva e aggiungi la cipolla, le carote e il sedano. Fai soffriggere a fuoco medio per circa 5-7 minuti, finché le verdure non diventano morbide. 4. **Aggiunta dello speck**: Unisci lo speck a cubetti e lascia rosolare per qualche minuto, fino a quando non diventa leggermente croccante. 5. **Cottura della zuppa**: Aggiungi i ceci lessati (o in scatola) nella pentola. Versa il brodo vegetale e porta a ebollizione. Aggiungi l’aglio e il rosmarino. Riduci il fuoco e lascia sobbollire per circa 20-25 minuti. 6. **Frullare (opzionale)**: Se desideri una consistenza più cremosa, puoi frullare una parte della zuppa con un frullatore a immersione e poi mescolare di nuovo. 7. **Regola di sapore**: Aggiusta di sale e pepe secondo il tuo gusto. Se ti piace, puoi aggiungere un pizzico di pepe nero macinato. 8. **Servizio**: Servi la zuppa calda, guarnita con un filo d’olio extravergine d’oliva e, se vuoi, una spolverata di rosmarino fresco.
+
+---
+
+*Ricetta da @leguminando*

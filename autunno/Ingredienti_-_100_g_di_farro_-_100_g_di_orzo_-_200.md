@@ -1,0 +1,9 @@
+# ### Ingredienti: - 100 g di farro - 100 g di orzo - 200 g di legumi misti (ceci,
+
+![### Ingredienti: - 100 g di farro - 100 g di orzo - 200 g di legumi misti (ceci,](17954808113793462.jpg)
+
+### Ingredienti: - 100 g di farro - 100 g di orzo - 200 g di legumi misti (ceci, fagioli, lenticchie) già cotti - 200 g di cavolo nero, tagliato a strisce - 200 g di cavolo verza, tagliato a strisce - 2 carote, a dadini - 1 cipolla, tritata - 2 zucchine, a dadini - 2 pomodori pelati, schiacciati - 2 litri di brodo vegetale - 3 cucchiai di olio extravergine d’oliva - Sale e pepe q.b. - Prezzemolo fresco tritato per guarnire ### Procedimento: 1. **Preparazione dei cereali**: Inizia sciacquando il farro e l’orzo sotto acqua corrente. Mettili a cuocere in una pentola con acqua salata seguendo le istruzioni sulla confezione, ma scolali leggermente al dente. 2. **Soffritto**: In una grande pentola, scalda l’olio d’oliva e aggiungi la cipolla tritata. Fai rosolare fino a quando diventa trasparente. 3. **Aggiunta delle verdure**: Aggiungi le carote e le zucchine a dadini e fai cuocere per circa 5 minuti, mescolando di tanto in tanto. 4. **Unire i cavoli**: Aggiungi il cavolo nero e il cavolo verza, mescolando bene. Fai cuocere per altri 5-7 minuti. 5. **Aggiunta dei legumi e pomodori**: Unisci i legumi cotti e i pomodori pelati schiacciati. Mescola bene e lascia insaporire per qualche minuto. 6. **Versare il brodo**: Aggiungi il brodo vegetale e porta a ebollizione. Riduci la fiamma e lascia sobbollire per circa 20-30 minuti, fino a quando le verdure sono tenere. 7. **Aggiungere farro e orzo**: Infine, incorpora il farro e l’orzo cotti, mescolando bene. Aggiusta di sale e pepe a piacere. 8. **Servire**: Servi il minestrone caldo, guarnito con prezzemolo fresco tritato e un filo d’olio extravergine d’oliva.
+
+---
+
+*Ricetta da @leguminando*

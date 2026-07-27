@@ -1,0 +1,9 @@
+# ## Ingredienti: - 250 g di ceci secchi (oppure 400 g di ceci in scatola) - 4 fil
+
+![## Ingredienti: - 250 g di ceci secchi (oppure 400 g di ceci in scatola) - 4 fil](18060018856856254.jpg)
+
+## Ingredienti: - 250 g di ceci secchi (oppure 400 g di ceci in scatola) - 4 filetti di acciuga sott’olio - 4 fette di pane casereccio - 2 spicchi d’aglio - 1 cipolla rossa (o bianca) - 4 cucchiai di olio extravergine d’oliva - Prezzemolo fresco (facoltativo) - Sale e pepe q.b. - Peperoncino (facoltativo) ### Procedimento: 1. **Preparazione dei ceci**: Se usi ceci secchi, mettili in ammollo per almeno 8 ore e poi lessali in acqua salata finché non sono teneri. Se usi ceci in scatola, scolali e sciacquali. 2. **Soffritto**: In una padella, scalda 2 cucchiai di olio d’oliva e aggiungi gli spicchi d’aglio schiacciati. Fai rosolare per un paio di minuti, fino a quando l’aglio diventa dorato. Rimuovilo e mettilo da parte. 3. **Aggiunta dei ceci e delle acciughe**: Nella stessa padella, aggiungi i ceci e i filetti di acciuga. Cuoci a fuoco medio, mescolando, finché le acciughe si sciolgono e si amalgamano con i ceci. Aggiusta di sale e pepe e, se ti piace, aggiungi un pizzico di peperoncino. 4. **Preparazione del pane**: Tosta le fette di pane in forno o in una padella fino a quando diventano croccanti. Puoi anche spennellarle con un po’ d’olio d’oliva prima di tostarle. 5. **Fette di cipolla**: Affetta la cipolla a fette sottili. Se preferisci, puoi farla saltare in padella con un po’ d’olio d’oliva fino a renderla morbida e dorata. 6. **Assemblaggio**: Distribuisci i ceci all’acciuga sulle fette di pane tostato. Guarnisci con le fette di cipolla e un filo d’olio d’oliva. Se desideri, aggiungi anche del prezzemolo fresco tritato. 7. **Servizio**: Servi i ceci all’acciuga su crosta di pane caldi come antipasto o secondo piatto.
+
+---
+
+*Ricetta da @leguminando*

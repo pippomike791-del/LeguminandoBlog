@@ -1,0 +1,9 @@
+# ### Ingredienti: - 500 g di zucca, pulita e tagliata a cubetti - 100 g di lentic
+
+![### Ingredienti: - 500 g di zucca, pulita e tagliata a cubetti - 100 g di lentic](18152246947368926.jpg)
+
+### Ingredienti: - 500 g di zucca, pulita e tagliata a cubetti - 100 g di lenticchie (preferibilmente verdi o marroni) - 1 litro di brodo vegetale - 1 cipolla - 2 spicchi d’aglio - 100 g di foglie di cavolo nero - 3 cucchiai di olio extravergine d’oliva - Sale e pepe q.b. - Pepe nero macinato (opzionale) - Semi di zucca tostati (per guarnire, opzionale) ### Procedimento: 1. **Preparare le lenticchie**: Sciacqua le lenticchie sotto acqua corrente e cuocile in acqua bollente per circa 20-25 minuti, fino a quando sono tenere. Scolale e mettile da parte. 2. **Cucinare la zucca**: In una pentola capiente, scalda 2 cucchiai di olio d’oliva e aggiungi la cipolla tritata e l’aglio schiacciato. Fai soffriggere fino a quando la cipolla è trasparente. Aggiungi i cubetti di zucca e cuoci per circa 5 minuti. 3. **Aggiungere il brodo**: Versa il brodo vegetale nella pentola e porta a ebollizione. Riduci la fiamma e lascia cuocere per circa 15-20 minuti, finché la zucca è tenera. 4. **Frullare la crema**: Utilizza un frullatore a immersione per frullare la zucca fino a ottenere una crema liscia. Se necessario, aggiungi un po’ di brodo per raggiungere la consistenza desiderata. Aggiusta di sale e pepe. 5. **Saltare il cavolo nero**: In una padella, scalda il restante cucchiaio di olio d’oliva. Aggiungi le foglie di cavolo nero tagliate a strisce e saltale per 3-4 minuti, fino a quando sono tenere e leggermente croccanti. Aggiusta di sale e pepe. 6. **Assemblare il piatto**: Servi la crema di zucca in ciotole, aggiungi le lenticchie cotte e guarnisci con le foglie di cavolo nero saltate. Se desideri, puoi aggiungere semi di zucca tostati per un tocco croccante.
+
+---
+
+*Ricetta da @leguminando*

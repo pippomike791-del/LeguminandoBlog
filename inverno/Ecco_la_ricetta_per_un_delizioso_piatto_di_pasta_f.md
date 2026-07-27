@@ -1,0 +1,9 @@
+# Ecco la ricetta per un delizioso piatto di pasta fatta in casa con asparagi, pom
+
+![Ecco la ricetta per un delizioso piatto di pasta fatta in casa con asparagi, pom](18075629842916530.jpg)
+
+Ecco la ricetta per un delizioso piatto di pasta fatta in casa con asparagi, pomodori secchi e pinoli. ### Ingredienti **Per la pasta:** - 250g di farina di lenticchie - Acqua quanto basta - Sale q.b. **Per il condimento:** - 200g di asparagi - 100g di pomodori secchi - 50g di pinoli - 2 spicchi d’aglio - Olio extravergine d’oliva q.b. - Sale e pepe q.b. ### Preparazione 1. **Preparare la pasta:** - In una ciotola, mescola la farina di lenticchie con un pizzico di sale. Aggiungi acqua poco alla volta, impastando fino a ottenere una consistenza morbida e liscia. - Avvolgi l’impasto in pellicola trasparente e lascialo riposare per circa 30 minuti. - Dopo il riposo, stendi l’impasto con un mattarello fino a ottenere uno spessore di circa 2-3 mm. Ritaglia la pasta nella forma desiderata (tagliatelle, fettuccine, ecc.). 2. **Cuocere gli asparagi:** - In una padella, scalda un po’ d’olio d’oliva e aggiungi l’aglio tritato. Quando l’aglio è dorato, aggiungi gli asparagi tagliati a pezzetti e cuocili per circa 5-7 minuti, finché non sono teneri ma ancora croccanti. 3. **Preparare il condimento:** - Aggiungi i pomodori secchi tagliati a strisce e i pinoli tostati agli asparagi in padella. Mescola bene e lascia insaporire per qualche minuto. Aggiusta di sale e pepe. 4. **Cuocere la pasta:** - Porta a ebollizione una pentola d’acqua salata. Cuoci la pasta fatta in casa per 2-3 minuti o finché non viene a galla. Scolala e aggiungila direttamente alla padella con il condimento. 5. **Comporre il piatto:** - Mescola bene la pasta con il condimento, assicurandoti che si amalgami perfettamente. Servi il piatto caldo, guarnendo con un filo d’olio d’oliva e, se desideri, una spolverata di pepe nero.
+
+---
+
+*Ricetta da @leguminando*

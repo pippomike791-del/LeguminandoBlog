@@ -1,0 +1,9 @@
+# ## Ingredienti **Per il piatto:** - 200 g di agretti - 200 g di asparagi - Olio 
+
+![## Ingredienti **Per il piatto:** - 200 g di agretti - 200 g di asparagi - Olio ](18067341268966505.jpg)
+
+## Ingredienti **Per il piatto:** - 200 g di agretti - 200 g di asparagi - Olio extravergine d’oliva - Sale e pepe q.b. - Succo di limone (facoltativo) **Per la crema:** - 150 g di lenticchie rosse - 50 g di pomodori secchi - 1 spicchio d’aglio - 500 ml di brodo vegetale (o acqua) - 2 cucchiai di olio extravergine d’oliva - Sale e pepe q.b. ### Procedimento 1. **Preparare la crema di lenticchie:** - In una pentola, scaldare l’olio d’oliva e aggiungere lo spicchio d’aglio schiacciato. Far rosolare leggermente. - Aggiungere le lenticchie rosse e i pomodori secchi tagliati a pezzetti. Mescolare per un paio di minuti. - Versare il brodo vegetale (o acqua) e portare a ebollizione. Cuocere per circa 15-20 minuti, finché le lenticchie non sono tenere. - Frullare il tutto con un frullatore a immersione fino a ottenere una crema liscia. Aggiustare di sale e pepe e mantenere in caldo. 2. **Cuocere gli agretti e gli asparagi:** - Portare a ebollizione una pentola d’acqua salata. Cuocere gli agretti per circa 3-4 minuti, quindi scolarli e passarli sotto acqua fredda per fermare la cottura. - Nella stessa acqua, cuocere gli asparagi per 5-7 minuti, finché sono teneri ma ancora croccanti. Scolarli e passarli sotto acqua fredda. 3. **Assemblare il piatto:** - In una padella, scaldare un filo d’olio d’oliva e saltare brevemente gli agretti e gli asparagi insieme, aggiustando di sale e pepe. Se desiderato, aggiungere un po’ di succo di limone per un tocco di freschezza. - Distribuire la crema di lenticchie sul piatto e adagiare sopra gli agretti e gli asparagi. 4. **Servire:** - Servire caldo, guarnendo con un filo d’olio d’oliva a crudo e, se piace, un po’ di pepe macinato fresco.
+
+---
+
+*Ricetta da @leguminando*

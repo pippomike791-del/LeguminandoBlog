@@ -1,0 +1,9 @@
+# ### Insalata di Ceci Neri e Cavolo Cappuccio #### Ingredienti: - 200 g di ceci n
+
+![### Insalata di Ceci Neri e Cavolo Cappuccio #### Ingredienti: - 200 g di ceci n](18093620746525612.jpg)
+
+### Insalata di Ceci Neri e Cavolo Cappuccio #### Ingredienti: - 200 g di ceci neri (secchi o in scatola) - 300 g di cavolo cappuccio (bianco o rosso) - 1 carota - 1 peperone (facoltativo) - 1 cipolla rossa - 4 cucchiai di olio d’oliva - 2 cucchiai di aceto di mele (o succo di limone) - Sale e pepe q.b. - Prezzemolo fresco tritato per guarnire - Semi di sesamo o di girasole (facoltativi, per guarnire) #### Procedimento: 1. **Preparazione dei ceci**: Se usi ceci neri secchi, mettili in ammollo per almeno 8 ore. Scolali e lessali in acqua salata per circa 1-1.5 ore, fino a quando sono teneri. Se usi ceci neri in scatola, scolali e risciacquali. 2. **Preparazione del cavolo cappuccio**: Lava il cavolo cappuccio e affettalo finemente. Se preferisci, puoi sbollentarlo in acqua salata per 2-3 minuti e poi raffreddarlo in acqua ghiacciata, per renderlo più tenero. 3. **Preparazione delle verdure**: Grattugia la carota e taglia il peperone e la cipolla rossa a strisce sottili. 4. **Mescolare gli ingredienti**: In una ciotola capiente, unisci i ceci neri cotti, il cavolo cappuccio, la carota, il peperone e la cipolla rossa. Mescola bene. 5. **Condimento**: In una ciotola piccola, emulsiona l’olio d’oliva con l’aceto di mele (o succo di limone), sale e pepe. Versa il condimento sull’insalata e mescola bene per amalgamare tutti gli ingredienti. 6. **Servire**: Guarnisci l’insalata con prezzemolo fresco tritato e, se desideri, aggiungi semi di sesamo o di girasole. Servi l’insalata fresca o a temperatura ambiente. ### Consigli: - Questa insalata è perfetta come contorno o come piatto principale leggero. - Puoi arricchire l’insalata con altri ingredienti come avocado, cetrioli o pomodori.
+
+---
+
+*Ricetta da @leguminando*

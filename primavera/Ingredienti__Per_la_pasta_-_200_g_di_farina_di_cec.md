@@ -1,0 +1,9 @@
+# ### Ingredienti ## Per la pasta: - 200 g di farina di ceci - 100 g di farina di 
+
+![### Ingredienti ## Per la pasta: - 200 g di farina di ceci - 100 g di farina di ](18107062450749513.jpg)
+
+### Ingredienti ## Per la pasta: - 200 g di farina di ceci - 100 g di farina di grano tenero tipo 00 - 3 uova - Un pizzico di sale Per il ripieno: - 200 g di cavolo nero - 1 cipolla piccola, tritata - 1 spicchio d&#039;aglio’ tritato - 100 ml di Chianti rosso - 2 cucchiai di olio extravergine di oliva - Sale e pepe q.b. Per il condimento: - 100 g di lenticchie cotte - 2 cucchiai di olio extravergine di oliva - 50 g di parmigiano grattugiato - Pepe nero macinato fresco Procedimento 1. **Prepara la pasta:** - In una ciotola, mescola la farina di ceci e la farina di grano tenero. - Crea una fontana al centro e aggiungi le uova e il sale. - Impasta fino a ottenere un composto omogeneo ed elastico. Copri con pellicola trasparente e lascia riposare per 30 minuti. 2. **Prepara il ripieno:** - Lava il cavolo nero e taglialo a striscioline sottili. - In una padella, scalda l&#039;olio e soffr’ggi la cipolla e l&#039;aglio fino a’doratura. - Aggiungi il cavolo nero, sale e pepe, e sfuma con il Chianti rosso. - Cuoci a fuoco lento fino a quando il cavolo è tenero e il liquido si è ridotto. Lascia raffreddare. 3. **Forma le mezzelune:** - Stendi la pasta in sfoglie sottili. - Ritaglia dei cerchi di circa 8 cm di diametro. - Metti un cucchiaino di ripieno al centro di ogni cerchio, piega a metà e sigilla i bordi con cura. 4. **Cuoci le mezzelune:** - Porta a ebollizione una pentola d&#039;acqua salata’e cuoci le mezzelune per 3-4 minuti. 5. **Prepara il condimento:** - In una padella, scalda l’olio e aggiungi le lenticchie. - Scola le mezzelune e falle saltare delicatamente con le lenticchie.
+
+---
+
+*Ricetta da @leguminando*

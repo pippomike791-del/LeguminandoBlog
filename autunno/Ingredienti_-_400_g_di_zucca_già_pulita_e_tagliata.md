@@ -1,0 +1,9 @@
+# ### Ingredienti: - 400 g di zucca (già pulita e tagliata a cubetti) - 200 g di l
+
+![### Ingredienti: - 400 g di zucca (già pulita e tagliata a cubetti) - 200 g di l](17972425187652014.jpg)
+
+### Ingredienti: - 400 g di zucca (già pulita e tagliata a cubetti) - 200 g di lenticchie (preferibilmente verdi o marroni) &#064;alcenerobiologico - 100 g di parmigiano reggiano grattugiato - 1 spicchio d’aglio (opzionale) - 1 cucchiaio di olio extravergine d’oliva &#064;slowfoodtoscana &#064;slowfoodlivorno - Sale e pepe q.b. - Pangrattato (q.b. per legare e impanare) ### Procedimento: 1. **Cottura delle lenticchie**: Cuoci le lenticchie in acqua salata per circa 20-25 minuti, finché sono tenere. Scolale e mettile da parte. 2. **Preparazione della zucca**: In una padella, scalda un filo d’olio e aggiungi i cubetti di zucca. Cuoci a fuoco medio fino a quando la zucca è morbida e leggermente caramellata, circa 10-15 minuti. Se desideri, aggiungi anche l’aglio tritato per un tocco di sapore. 3. **Frullare il composto**: Trasferisci le lenticchie cotte e la zucca in un mixer. Frulla fino a ottenere un composto omogeneo, ma con qualche pezzo per una consistenza rustica. Aggiungi il parmigiano reggiano grattugiato, sale e pepe, mescolando bene. 4. **Formare i burger**: Aggiungi pangrattato al composto fino a ottenere una consistenza lavorabile. Forma dei burger di dimensioni simili. 5. **Cottura dei burger**: Scalda un filo d’olio in una padella antiaderente. Cuoci i burger a fuoco medio per circa 5-7 minuti per lato, fino a quando sono dorati e croccanti. 6. **Servire**: Servi i burger caldi, magari accompagnati da una semplice insalata o su un letto di verdure. ### Consiglio: Puoi aggiungere spezie come paprika o cumino al composto per un sapore extra!
+
+---
+
+*Ricetta da @leguminando*

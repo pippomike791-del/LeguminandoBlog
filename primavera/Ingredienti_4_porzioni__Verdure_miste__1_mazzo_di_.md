@@ -1,0 +1,9 @@
+# Ingredienti (4 porzioni) • Verdure miste: – 1 mazzo di cavolo romano a strisciol
+
+![Ingredienti (4 porzioni) • Verdure miste: – 1 mazzo di cavolo romano a strisciol](18107724670543829.jpg)
+
+Ingredienti (4 porzioni) • Verdure miste: – 1 mazzo di cavolo romano a striscioline – 200 g di cavolfiore diviso in piccole cimette – 2 zucchine tagliate a rondelle sottili – 1 peperone rosso e 1 giallo a listarelle • Panatura croccante: – 60 g di pangrattato rustico – 30 g di pinoli grossolanamente tritati – 2 cucchiai di olio extravergine d’oliva – Sale, pepe e un pizzico di peperoncino in polvere • Hummus di ceci e peperoni secchi: – 200 g di ceci precotti (scolati) – 2 peperoni secchi reidratati in acqua tiepida – Succo e scorza grattugiata di 1 lime – 1 cucchiaio di olio evo – Sale fino q.b. • 4 fette di gorgonzola dolce-piccante Procedimento 1. Preriscalda il forno a 200 °C in modalità ventilata. In una ciotola capiente condisci cavolo, cavolfiore, zucchine e peperoni con un filo d’olio, sale e pepe. 2. Prepara la panatura: mescola pangrattato, pinoli tritati, olio e il peperoncino. Distribuisci il composto sopra le verdure premendo leggermente per farlo aderire. 3. Trasferisci tutto in un’unica teglia e cuoci 20–25 minuti, finché la crosta è ben dorata e le verdure risultano tenere ma ancora con un mordente croccante. Hummus piccante Metti nel frullatore ceci, peperoni secchi ben scolati, succo e scorza di lime, olio e un pizzico di sale. Frulla fino a ottenere una crema liscia, aggiungendo un goccio d’acqua se serve per regolare la densità. Impiattamento 1. Spalma sul piatto una generosa base di hummus al lime. 2. Sistema al centro le verdure arrostite con la crosta di pangrattato e pinoli, in modo da esaltarne il contrasto cromatico. 3. Completa con una fetta di gorgonzola piccante accanto, per un tocco deciso e cremoso.
+
+---
+
+*Ricetta da @leguminando*

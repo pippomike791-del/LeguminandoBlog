@@ -1,0 +1,9 @@
+# Ingredienti - 300 g di ceci secchi - 300 g di pasta all’uovo - spicchi d’aglio -
+
+![Ingredienti - 300 g di ceci secchi - 300 g di pasta all’uovo - spicchi d’aglio -](18081828325866390.jpg)
+
+Ingredienti - 300 g di ceci secchi - 300 g di pasta all’uovo - spicchi d’aglio - rametto di rosmarino fresco - foglie di salvia - olio extravergine d’oliva - pepe nero macinato al momento (o peperoncino, se ti piace) - croste di parmigiano appositamente trattate. Procedimento 1. Preparare i ceci • Se utilizzi quelli secchi, mettili in ammollo per 10–12 ore in abbondante acqua fredda. Dopodiché scolali, sciacquali e trasferiscili in una casseruola o in pentola a pressione. • Unisci uno spicchio d’aglio in camicia e il mazzetto aromatico (rosmarino e salvia legati insieme). Copri con acqua fredda e porta a ebollizione. • Cuoci 30 minuti sotto pressione, oppure per circa 1 ora in pentola tradizionale, finché i ceci non saranno teneri. Sala solo quando sono già cotti. 2. Frullare una parte di ceci • Preleva un mestolo di ceci con un po’ del loro liquido di cottura e riducili in crema con un frullatore a immersione. • Versa la crema nuovamente nella pentola e mescola con i ceci interi. 3. Soffritto profumato • Affetta finemente il secondo spicchio d’aglio e falla dorare in padella con un filo d’olio e il rametto di rosmarino. • Appena l’aglio sfrigola, togli la padella dal fuoco e conserva da parte l’olio aromatizzato. 4. Cuocere la pasta • Riporta a bollore il brodo di ceci e versaci i maltagliati. Se il liquido fosse insufficiente, aggiungi un po’ di acqua calda. • A metà cottura, incorpora l’olio profumato con aglio e rosmarino, mescolando per distribuire gli aromi. 5. Servire • Sistema la zuppa di pasta e ceci nei piatti ancora caldi, aggiungi le croste di parmigiano • Completa con un filo d’olio a crudo e una macinata di pepe nero (o una spolverata di peperoncino).
+
+---
+
+*Ricetta da @leguminando*

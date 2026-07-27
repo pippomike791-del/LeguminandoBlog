@@ -1,0 +1,9 @@
+# #leguminando Ingredienti (4 porzioni) - Broccoli: 500 g (testa, separata in cime
+
+![#leguminando Ingredienti (4 porzioni) - Broccoli: 500 g (testa, separata in cime](18125069524714993.jpg)
+
+#leguminando Ingredienti (4 porzioni) - Broccoli: 500 g (testa, separata in cimette) - Cavolfiore: 400 g (separato in cimette) - Ceci cotti: 400 g (peso cotto, scolati) - Spinaci novelli: 150 g - Cipolla rossa: 1 media (≈100 g), affettata sottilmente - Olio extravergine d’oliva: 3 cucchiai (≈45 ml) - Tahini: 2 cucchiai colmi (≈30 g) - Succo di limone: 2 cucchiai (≈30 ml) - Aglio: 1 spicchio, schiacciato - Prezzemolo fresco: 15–20 g, tritato - Sale: 1 cucchiaino (o a piacere) - Pepe nero: q.b. - Fiocchi di peperoncino (opzionale): un pizzico Preparazione 1. Preriscalda il forno a 200 °C. In una teglia larga distribuisci broccoli e cavolfiore. Condisci con 1 cucchiaio di olio, ½ cucchiaino di sale e un pizzico di pepe; mescola bene. 2. Inforna le verdure 20–25 minuti, girandole a metà cottura, finché sono dorate ai bordi e tenere. Negli ultimi 10 minuti aggiungi i ceci nella teglia (se li vuoi croccanti lasciali scoperti). 3. Mentre le verdure cuociono, scalda 1 cucchiaio d’olio in una padella antiaderente e fai appassire la cipolla 5–6 minuti a fuoco medio; aggiungi gli spinaci e cuoci 1–2 minuti finché si ammorbidiscono. Togli dal fuoco. 4. Prepara il dressing: in una ciotola mescola tahini, succo di limone, aglio schiacciato, 1 cucchiaio di olio rimanente, un pizzico di sale e pepe. Se troppo denso aggiungi 1–2 cucchiaini d’acqua per ottenere una consistenza fluida. 5. Quando le verdure e i ceci sono pronti, unisci alla padella con spinaci e cipolla o disponili in un’unica grande ciotola. Versa il dressing e mescola delicatamente. Cospargi con prezzemolo e, se vuoi, fiocchi di peperoncino. 6. Servire caldo o tiepido. Tempo totale: ~35–40 minuti.
+
+---
+
+*Ricetta da @leguminando*
