@@ -1,9 +1,0 @@
-# ### Ingredienti: - 250 g di lenticchie (preferibilmente verdi o marroni) - 300 g
-
-![### Ingredienti: - 250 g di lenticchie (preferibilmente verdi o marroni) - 300 g](18122194015396338.jpg)
-
-### Ingredienti: - 250 g di lenticchie (preferibilmente verdi o marroni) - 300 g di salsiccia (puoi scegliere quella di maiale o di pollo) - 100 g di olive nere denocciolate - 200 g di cavolo nero - 1 cipolla - 2 spicchi d’aglio - 1 carota - 1 rametto di rosmarino - 1 litro di brodo vegetale - 50 g di parmigiano grattugiato - Olio extravergine d’oliva - Sale e pepe q.b. ### Procedimento: 1. **Preparare le lenticchie**: Sciacqua le lenticchie sotto acqua corrente e mettile a bagno per almeno un’ora (non è necessario se usi lenticchie in scatola). 2. **Soffritto**: In una pentola capiente, scalda un filo d’olio d’oliva e aggiungi la cipolla tritata, l’aglio schiacciato e la carota tagliata a cubetti. Fai soffriggere fino a quando le verdure non diventano morbide. 3. **Aggiungere la salsiccia**: Togli la pelle dalla salsiccia e sbriciolala nella pentola. Fai rosolare fino a quando non è ben dorata. 4. **Cuocere le lenticchie**: Aggiungi le lenticchie scolate e il rosmarino. Mescola bene, poi versa il brodo vegetale. Porta a ebollizione, quindi riduci la fiamma e lascia cuocere per circa 30-40 minuti, finché le lenticchie non diventano tenere. Aggiungi le olive negli ultimi 10 minuti di cottura. Regola di sale e pepe. 5. **Cavolo nero croccante**: Nel frattempo, prendi le foglie di cavolo nero, lavale e asciugale. Rimuovi le coste dure e taglia le foglie a strisce. In una padella, scalda un po’ d’olio d’oliva e aggiungi il cavolo. Cuoci a fuoco vivo fino a quando non diventa croccante. Aggiungi sale e pepe a piacere. 6. **Servire**: Una volta che le lenticchie sono cotte, servi in un piatto fondo, guarnendo con il cavolo nero croccante e spolverando con parmigiano grattugiato.
-
----
-
-*Ricetta da @leguminando*

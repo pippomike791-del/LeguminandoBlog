@@ -1,9 +1,0 @@
-# ### Timbale di Verdure e Lenticchie Rosse al Vapore **Ingredienti:** - 200 g di 
-
-![### Timbale di Verdure e Lenticchie Rosse al Vapore **Ingredienti:** - 200 g di ](18061182808907270.jpg)
-
-### Timbale di Verdure e Lenticchie Rosse al Vapore **Ingredienti:** - 200 g di lenticchie rosse - 150 g di bietola, lavata e tagliata a pezzetti - 150 g di spinaci, lavati - 150 g di cicoria, lavata e tagliata - 2 uova - 100 g di ricotta (opzionale) - 50 g di parmigiano grattugiato - Sale e pepe q.b. - Un pizzico di noce moscata (facoltativo) - Olio d’oliva per ungere **Procedimento:** 1. **Preparazione delle Lenticchie:** Sciacqua le lenticchie rosse sotto acqua corrente. Metti a cuocere in acqua bollente per circa 10 minuti, fino a quando sono tenere ma non sfatte. Scolale e mettile da parte. 2. **Cottura delle Verdure:** In una pentola a vapore, cuoci a vapore bietola, spinaci e cicoria per circa 5-7 minuti, finché non sono appassiti ma ancora verdi e croccanti. Una volta pronti, strizza le verdure per eliminare l’acqua in eccesso. 3. **Preparazione del composto:** In una ciotola grande, unisci le lenticchie cotte, le verdure al vapore, le uova, la ricotta (se utilizzata), il parmigiano grattugiato, sale, pepe e noce moscata. Mescola bene fino a ottenere un composto omogeneo. 4. **Preparazione del Timbale:** Ungi degli stampini per timballi o una teglia con un po’ d’olio d’oliva. Versa il composto di lenticchie e verdure negli stampini, pressando leggermente per compattare. 5. **Cottura al Vapore:** Posiziona gli stampini nella pentola a vapore e cuoci per circa 20-25 minuti, finché il timbale non è sodo. Puoi anche cuocere in una pentola con acqua a ebollizione, coprendo con un coperchio. 6. **Servizio:** Una volta cotti, lascia raffreddare leggermente. Sforma i timbali su un piatto e servili caldi, eventualmente accompagnati da un filo d’olio d’oliva e una spolverata di parmigiano.
-
----
-
-*Ricetta da @leguminando*

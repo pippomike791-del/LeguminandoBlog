@@ -1,9 +1,0 @@
-# Gnocchi di pane raffermo su crema di lenticchie nere allo zafferano e spinaci In
-
-![Gnocchi di pane raffermo su crema di lenticchie nere allo zafferano e spinaci In](18382641199199999.jpg)
-
-Gnocchi di pane raffermo su crema di lenticchie nere allo zafferano e spinaci Ingredienti per 4 persone 1) Gnocchi di pane - 200 g pane raffermo - 2 uova - 50 g parmigiano - noce moscata, sale, pepe - 60–80 g farina + un po’ per infarinare 2) Crema di lenticchie - 200 g lenticchie nere - 1 scalogno, 1 spicchio d’aglio - 1 bicchiere vino bianco - 600 ml brodo vegetale - 0,3 g zafferano (in pistilli o bustina) - 150 g spinaci freschi - 2 cucchiai olio evo - sale, pepe 3) Guarnizione - qualche foglia di spinaci sbollentate - olio crudo - scaglie di parmigiano (facoltative) Procedimento 1. Gnocchi: ammolla il pane in 150 ml d’acqua tiepida per 10’; strizzalo, mescolalo con uova, parmigiano, noce moscata, sale e pepe. Incorpora la farina fino a un impasto consistente. Forma cilindretti, tagliali a tocchetti e infarina. 2. Crema di lenticchie: in un tegame scalda l’olio, fai appassire scalogno e aglio. Aggiungi le lenticchie sciacquate, sfuma con il vino. Versa il brodo, cuoci 20–25’ finché sono tenere. Sciogli lo zafferano in un po’ di brodo e uniscilo a fine cottura. Sala, pepa. Preleva metà lenticchie con schiumarola; frulla il resto. 3. Spinaci: sbollenta per 1–2’, scolali, strizzali e spezzettali. Uniscili alla crema, tenendo da parte qualche foglia per decorare. 4. Assemblaggio: cuoci gli gnocchi in acqua salata finché salgono (2–3’), scolali e saltali in padella con la crema. Impiatta, decora con spinaci interi, un filo d’olio e scaglie di parmigiano. Consiglio: per un tocco “rustico” conserva qualche lenticchia intera da spolverare sul piatto. Buon appetito!
-
----
-
-*Ricetta da @leguminando*

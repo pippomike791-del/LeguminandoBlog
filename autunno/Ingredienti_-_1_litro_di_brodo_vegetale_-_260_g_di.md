@@ -1,9 +1,0 @@
-# ### Ingredienti: - 1 litro di brodo vegetale - 260 g di ceci (preferibilmente gi
-
-![### Ingredienti: - 1 litro di brodo vegetale - 260 g di ceci (preferibilmente gi](17861640054288947.jpg)
-
-### Ingredienti: - 1 litro di brodo vegetale - 260 g di ceci (preferibilmente già ammollati) - 2 cipolle, tritate finemente - 200 g di cavolo nero, lavato e tagliato a strisce - 2 cucchiai di olio extra vergine di oliva - 2 cucchiai di farina di ceci - 2 cucchiai di concentrato di pomodoro - Prezzemolo fresco tritato (q.b.) - Sale marino (q.b.) - Pepe nero (q.b.) ### Istruzioni: 1. **Preparazione del Brodo**: Se non hai già pronto il brodo vegetale, puoi prepararlo facendo bollire acqua con una selezione di verdure essiccate (pomodoro, sedano rapa, cipolla). Dopo circa 30 minuti, filtra il liquido. 2. **Soffritto**: In una pentola capiente, scalda l’olio extra vergine di oliva a fuoco medio. Aggiungi le cipolle tritate e fai rosolare fino a quando non diventano trasparenti. 3. **Aggiungi i Ceci**: Unisci i ceci scolati e risciacquati e mescola bene. Fai cuocere per circa 5 minuti. 4. **Cottura con il Brodo**: Aggiungi il brodo vegetale caldo e porta a ebollizione. Riduci il fuoco e lascia sobbollire per circa 30-40 minuti, o finché i ceci non sono teneri. 5. **Incorpora il Cavolo Nero**: Aggiungi il cavolo nero e il concentrato di pomodoro. Mescola bene e continua a cuocere per ulteriori 10-15 minuti. 6. **Addensare con Farina di Ceci**: In una ciotolina, mescola la farina di ceci con un po’ di acqua fino a ottenere una pastella liscia. Aggiungi questa pastella alla zuppa, mescolando per addensare. Aggiusta di sale e pepe a piacere. 7. **Finalizzazione**: Una volta cotta, togli la pentola dal fuoco e aggiungi il prezzemolo fresco tritato. Mescola bene. 8. **Servire**: Servi la zuppa calda, accompagnata da crostini di pane o fette di pane tostato.
-
----
-
-*Ricetta da @leguminando*

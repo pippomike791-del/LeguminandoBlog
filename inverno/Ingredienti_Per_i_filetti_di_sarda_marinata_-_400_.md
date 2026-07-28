@@ -1,9 +1,0 @@
-# ### Ingredienti **Per i filetti di sarda marinata:** - 400 g di filetti di sarda
-
-![### Ingredienti **Per i filetti di sarda marinata:** - 400 g di filetti di sarda](18037612109424168.jpg)
-
-### Ingredienti **Per i filetti di sarda marinata:** - 400 g di filetti di sarda freschi - 100 ml di aceto di vino bianco - 50 ml di olio extravergine d’oliva - Succo di 1 limone - 2 spicchi d’aglio, tritati - Sale q.b. - Pepe nero q.b. - Prezzemolo fresco tritato (per guarnire) **Per i ceci lessi:** - 400 g di ceci già lessati (puoi usare ceci in scatola o secchi, precedentemente messi in ammollo e cotti) - 1 cucchiaio di olio extravergine d’oliva - Sale q.b. - Pepe nero q.b. - 1 cucchiaino di paprika dolce (facoltativo) ### Procedimento 1. **Marinare le sarde:** - In una ciotola, mescola l’aceto, l’olio d’oliva, il succo di limone, l’aglio tritato, il sale e il pepe. - Aggiungi i filetti di sarda, assicurandoti che siano ben coperti dalla marinata. Copri e lascia marinare in frigorifero per almeno 1 ora. 2. **Preparare i ceci:** - Se usi ceci in scatola, scolali e risciacquali sotto acqua corrente. Se usi ceci secchi, assicurati di metterli in ammollo per almeno 12 ore prima di cuocerli. - In una padella, scalda un cucchiaio di olio d’oliva e aggiungi i ceci lessati. - Condisci con sale, pepe e paprika, se desiderato. Cuoci a fuoco medio per circa 5-10 minuti, mescolando di tanto in tanto. 3. **Comporre il piatto:** - Una volta che le sarde sono marinate, disponile su un piatto da portata. - Accanto, aggiungi i ceci lessati e mescolati con le spezie. - Guarnisci con prezzemolo fresco tritato e una spolverata di pepe nero. ### Servizio Servi i filetti di sarda marinata con i ceci come antipasto o portata principale. Puoi accompagnare il piatto con fette di pane tostato e un buon vino bianco fresco.
-
----
-
-*Ricetta da @leguminando*

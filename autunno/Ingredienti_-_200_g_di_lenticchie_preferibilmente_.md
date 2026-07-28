@@ -1,9 +1,0 @@
-# ### Ingredienti - 200 g di lenticchie (preferibilmente verdi o nere) - 1 cipolla
-
-![### Ingredienti - 200 g di lenticchie (preferibilmente verdi o nere) - 1 cipolla](18089148643506616.jpg)
-
-### Ingredienti - 200 g di lenticchie (preferibilmente verdi o nere) - 1 cipolla - 1 carota - 1 gambo di sedano - 2 spicchi d’aglio - 1 litro di brodo vegetale - 100 g di pistacchi sgusciati - 150 g di mozzarella di bufala - Olio extravergine d’oliva q.b. - Sale e pepe q.b. - Prezzemolo fresco per guarnire (facoltativo) ### Procedimento #### 1. Preparazione delle lenticchie: 1. **Soffritto**: In una pentola, scaldare un filo d’olio e aggiungere la cipolla, la carota e il sedano tritati finemente. Far soffriggere a fuoco medio fino a quando le verdure diventano morbide. 2. **Aggiunta dell’aglio**: Unire gli spicchi d’aglio schiacciati e farli rosolare per un paio di minuti. #### 2. Cottura delle lenticchie: 1. **Cottura**: Aggiungere le lenticchie nella pentola e mescolare. Versare il brodo vegetale e portare a ebollizione. Ridurre il fuoco e far cuocere per circa 30-40 minuti, o fino a quando le lenticchie sono tenere. Se necessario, aggiungere ulteriore brodo o acqua durante la cottura. #### 3. Frullatura: 1. **Frullare**: Una volta cotte, rimuovere dal fuoco e frullare il tutto con un frullatore a immersione fino a ottenere una consistenza liscia e vellutata. Aggiustare di sale e pepe. #### 4. Preparazione dei pistacchi: 1. **Tostatura**: In una padella, tostare i pistacchi a fuoco medio per qualche minuto fino a quando diventano fragranti. Togliere dal fuoco e tritare grossolanamente. #### 5. Impiattamento: 1. **Servire**: Versare la vellutata di lenticchie in ciotole, aggiungere pezzetti di mozzarella di bufala su ogni porzione, cospargere con i pistacchi tostati e un filo d’olio extravergine d’oliva. Se desiderato, guarnire con prezzemolo fresco.
-
----
-
-*Ricetta da @leguminando*

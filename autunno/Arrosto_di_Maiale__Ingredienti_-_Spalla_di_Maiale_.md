@@ -1,9 +1,0 @@
-# ## Arrosto di Maiale ### Ingredienti - **Spalla di Maiale** - 1 spalla di maiale
-
-![## Arrosto di Maiale ### Ingredienti - **Spalla di Maiale** - 1 spalla di maiale](18123830719596876.jpg)
-
-## Arrosto di Maiale ### Ingredienti - **Spalla di Maiale** - 1 spalla di maiale intera con osso (1.8-2 kg), legata dal macellaio - 200 ml di vino rosso corposo (Primitivo o Aglianico) - 4 spicchi d’aglio, schiacciati - 2 rametti di rosmarino fresco - 4 foglie di alloro - 1 cucchiaio di miele millefiori - 1 cucchiaio di senape - Olio extra vergine di oliva (EVO), sale, pepe nero Preparazione 1. Prepara la spalla di maiale: insaporisci con aglio, rosmarino, alloro, sale e pepe. 2. Mescola il miele e la senape, e spalma sulla carne. 3. Versa il vino rosso sulla carne e lascia marinare per almeno un&#039;ora. 4. Cuoci in forno preriscaldato a 180°C per circa 3 ore, bagnando ogni tanto con il sugo di cottura. Lenticchie Cremose Ingredienti - 400 g di lenticchie (preferibilmente Castelluccio o verdi) - 1 cipolla dorata - 1 carota - 2 coste di sedano - 1 pomodoro maturo (o 3 cucchiai di passata) - 1 cucchiaino di zafferano in polvere (o pistilli) - 1 L di brodo di carne caldo - 50 g di burro - Parmigiano grattugiato q.b. Preparazione 1. Tritare cipolla, carota e sedano e soffriggere nel burro. 2. Aggiungere le lenticchie, il pomodoro e lo zafferano. 3. Versare il brodo caldo e cuocere fino a quando le lenticchie sono tenere. 4. Mantecare con parmigiano e regolare di sale. Cavolo Croccante Ingredienti - 1 cavolo nero (solo le foglie, senza coste) - 2 cucchiai di olio EVO - 1 spicchio d’aglio - Peperoncino fresco q.b. - Sale grosso Preparazione 1. Saltare le foglie di cavolo in olio EVO con aglio e peperoncino. 2. Aggiungere sale grosso e cuocere fino a farle diventare croccanti.
-
----
-
-*Ricetta da @leguminando*

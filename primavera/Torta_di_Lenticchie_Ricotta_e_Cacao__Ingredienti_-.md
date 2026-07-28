@@ -1,9 +1,0 @@
-# # Torta di Lenticchie, Ricotta e Cacao #### Ingredienti: - 200 g di farina di le
-
-![# Torta di Lenticchie, Ricotta e Cacao #### Ingredienti: - 200 g di farina di le](18040296161613165.jpg)
-
-# Torta di Lenticchie, Ricotta e Cacao #### Ingredienti: - 200 g di farina di lenticchie - 250 g di ricotta - 100 g di zucchero (puoi aumentare o diminuire a piacere) - 50 g di cacao amaro in polvere - 3 uova - 1 cucchiaino di estratto di vaniglia - 1/2 cucchiaino di lievito per dolci - Un pizzico di sale - Olio per ungere la teglia #### Procedimento: 1. **Preparazione del forno**: Preriscalda il forno a 180°C. Ungi una teglia da torta con un po’ di olio e, se desideri, rivestila con carta da forno. 2. **Mescolare gli ingredienti secchi**: In una ciotola, setaccia la farina di lenticchie, il cacao amaro, il lievito e il sale. Mescola bene. 3. **Preparare il composto umido**: In un’altra ciotola, sbatti le uova con lo zucchero fino a ottenere un composto spumoso. Aggiungi la ricotta e l’estratto di vaniglia, mescolando fino a ottenere un composto omogeneo. 4. **Unire gli ingredienti**: Aggiungi gradualmente gli ingredienti secchi al composto umido, mescolando delicatamente fino a ottenere un impasto liscio e senza grumi. 5. **Versare nella teglia**: Trasferisci l’impasto nella teglia preparata e livella la superficie con una spatola. 6. **Cuocere**: Inforna per circa 30-35 minuti, o fino a quando uno stecchino inserito al centro della torta esce pulito. 7. **Raffreddamento**: Una volta cotta, sforna la torta e lasciala raffreddare nella teglia per circa 10 minuti, poi trasferiscila su una gratella per raffreddarla completamente. 8. **Servire**: Puoi servire la torta semplice o spolverizzarla con zucchero a velo o cacao in polvere per un tocco decorativo.
-
----
-
-*Ricetta da @leguminando*

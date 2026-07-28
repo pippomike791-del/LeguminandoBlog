@@ -1,9 +1,0 @@
-# # Ingredienti: - 150 g di polenta di mais - 1 kg di cavolo nero - 1 porro (o cip
-
-![# Ingredienti: - 150 g di polenta di mais - 1 kg di cavolo nero - 1 porro (o cip](18038895356456491.jpg)
-
-# Ingredienti: - 150 g di polenta di mais - 1 kg di cavolo nero - 1 porro (o cipolla) - 1 carota - 1 gambo di sedano - 150 g di passata di pomodoro - 500 g di fagioli borlotti (metà interi e metà passati) - Olio extravergine d’oliva - Sale e pepe q.b. - Acqua q.b. ### Procedimento: 1. **Preparare le verdure**: Lava e taglia il cavolo nero a striscioline. Affetta il porro (o cipolla), la carota e il sedano a dadini. 2. **Soffriggere**: In una pentola capiente, scalda un filo d’olio d’oliva e aggiungi il porro, la carota e il sedano. Fai soffriggere per circa 5-7 minuti, fino a quando le verdure non sono morbide. 3. **Aggiungere il cavolo**: Aggiungi il cavolo nero nella pentola e mescola bene. Lascia cuocere per circa 10 minuti, fino a quando il cavolo non si è ammorbidito. 4. **Unire la passata di pomodoro**: Versa la passata di pomodoro nella pentola e mescola. Cuoci per altri 5 minuti. 5. **Preparare i fagioli**: Aggiungi i fagioli borlotti (metà interi e metà passati) alla miscela di verdure. Aggiungi anche un po’ d’acqua per ottenere la consistenza desiderata. Regola di sale e pepe. 6. **Cuocere la polenta**: In un’altra pentola, porta a ebollizione acqua salata. Aggiungi lentamente la polenta di mais, mescolando continuamente per evitare grumi. Cuoci per circa 15-20 minuti, seguendo le istruzioni sulla confezione. 7. **Combinare**: Una volta cotta, versa la polenta nella pentola con le verdure e i fagioli. Mescola bene per amalgamare tutti gli ingredienti. 8. **Servire**: Lascia riposare per qualche minuto, quindi servi la farinata calda, guarnita con un filo d’olio d’oliva a crudo, se desiderato.
-
----
-
-*Ricetta da @leguminando*

@@ -1,9 +1,0 @@
-# ### Ingredienti - **Per i ceci croccanti**: - 240 g di ceci (cotti e scolati) - 
-
-![### Ingredienti - **Per i ceci croccanti**: - 240 g di ceci (cotti e scolati) - ](17918003151150953.jpg)
-
-### Ingredienti - **Per i ceci croccanti**: - 240 g di ceci (cotti e scolati) - 2 cucchiai di olio extravergine d’oliva - Sale q.b. - Peperoncino in fiocchi (a piacere) - **Per i funghi porcini**: - 200 g di funghi porcini freschi (o surgelati) - 1 spicchio d’aglio tritato - 2 cucchiai di olio extravergine d’oliva - Prezzemolo fresco tritato - Sale e pepe q.b. - **Per le lenticchie**: - 200 g di lenticchie (cotte e scolate) - 1 cucchiaio di olio extravergine d’oliva - 1 cucchiaino di aceto balsamico - Sale e pepe q.b. - **Per l’assemblaggio**: - Fette di porchetta (quantità a piacere) - Foglie di rucola o insalata mista per guarnire ### Preparazione 1. **Ceci croccanti**: - Preriscalda il forno a 200°C. - In una ciotola, condisci i ceci cotti con olio d’oliva, sale e peperoncino. Mescola bene. - Distribuisci i ceci su una teglia foderata di carta da forno in un unico strato. - Cuoci in forno per circa 25-30 minuti, o fino a quando saranno dorati e croccanti. Mescola a metà cottura per una doratura uniforme. 2. **Funghi porcini**: - In una padella, scalda l’olio d’oliva e aggiungi l’aglio tritato. Soffriggi per un minuto. - Aggiungi i funghi porcini puliti e tagliati a fette. Cuoci a fuoco medio-alto per 5-7 minuti, fino a quando sono teneri e leggermente dorati. Aggiusta di sale, pepe e aggiungi il prezzemolo tritato. 3. **Lenticchie**: - In un’altra ciotola, mescola le lenticchie cotte con olio d’oliva, aceto balsamico, sale e pepe. Mescola bene per amalgamare i sapori. 4. **Assemblaggio**: - Su un piatto da portata, disponi le fette di porchetta come base. - Aggiungi sopra le lenticchie condite, i funghi porcini e infine i ceci croccanti. - Guarnisci con foglie di rucola o insalata mista.
-
----
-
-*Ricetta da @leguminando*
